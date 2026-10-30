@@ -1,0 +1,100 @@
+{"id":0,"score":0.0000007112,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":1,"score":0.0000018739,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":2,"score":0.0002034272,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":3,"score":0.0000069623,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":4,"score":0.0000030895,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":5,"score":0.89625144,"pred":"Angelique Kerber won the women's singles Wimbledon in 2018.","split":"test"}
+{"id":6,"score":0.0018675668,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":7,"score":0.0003053489,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":8,"score":0.0000848112,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":9,"score":0.0029810341,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":10,"score":0.0005193073,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":11,"score":0.0259573571,"pred":"Rafael Nadal defeated Novak Djokovic in the men's singles U.S. Open 2021.","split":"test"}
+{"id":12,"score":0.0000011366,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":13,"score":0.0047552064,"pred":"There are factual errors in the provided documents. Tesla's revenue in Q2 2020 was either $6.04 billion or $1.04 billion, depending on the document.","split":"test"}
+{"id":14,"score":0.0000067481,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":15,"score":0.1645164788,"pred":"Splatoon 2 was released on July 21, 2017.","split":"test"}
+{"id":16,"score":0.0000000651,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":17,"score":0.0002034272,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":18,"score":0.0000122191,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":19,"score":0.0116872573,"pred":"Diablo 3 was released on May 15, 2012.","split":"test"}
+{"id":20,"score":0.0000000032,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":21,"score":0.0018675668,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":22,"score":0.0000015057,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":23,"score":0.000000369,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":24,"score":0.9579122663,"pred":"Xenoblade Chronicles: Definitive Edition was released on May 29, 2020.","split":"test"}
+{"id":25,"score":0.0008830463,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":26,"score":0.0000000267,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":27,"score":0.000417316,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":28,"score":0.000570316,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":29,"score":0.7371581793,"pred":"The Maxwell Award winner in 2019 was Joe Burrow, from Louisiana State University.","split":"calib"}
+{"id":30,"score":0.0000000289,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":31,"score":0.0000000046,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":32,"score":0.001648483,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":33,"score":0.8080672026,"pred":"Dec 14, 2020","split":"calib"}
+{"id":34,"score":0.0000006277,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":35,"score":0.00001013,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":36,"score":0.0000003156,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":37,"score":0.0000000008,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":38,"score":0.0002868541,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":39,"score":0.0000000039,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":40,"score":0.0000006084,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":41,"score":0.0600866936,"pred":"There are factual errors in the provided documents. Iga \u015awi\u0105tek, currently ranked No. 1 in women's singles, was the women's year-end No. 1 in tennis in 2020.","split":"calib"}
+{"id":42,"score":0.4532618523,"pred":"Rafael Nadal is the men's year-end No. 1 ATP Ranking in tennis in 2019.","split":"test"}
+{"id":43,"score":0.0001313518,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":44,"score":0.000077222,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":45,"score":0.000127311,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":46,"score":0.0000002382,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":47,"score":0.00000027,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":48,"score":0.0000640201,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":49,"score":0.9284088016,"pred":"Abdulrazak Gurnah was awarded the 2019 Nobel Prize in Literature.","split":"test"}
+{"id":50,"score":0.9992903471,"pred":"There are factual errors in the provided documents. The Nobel Prize in Literature 2018 was awarded to Olga Tokarczuk and Peter Handke.","split":"calib"}
+{"id":51,"score":0.0203323625,"pred":"The release date of God of War (2018) is April 20, 2018, as stated in document [3] and [5].","split":"calib"}
+{"id":52,"score":0.0002531564,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":53,"score":0.0000002382,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":54,"score":0.0006263341,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":55,"score":0.9999227524,"pred":"The Crown season 3 premieres on Sunday, November 17.","split":"test"}
+{"id":56,"score":0.0029810341,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":57,"score":0.0001634647,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":58,"score":0.0010987306,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":59,"score":0.0000000202,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":60,"score":0.000000028,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":61,"score":0.0149571002,"pred":"There are factual errors in the provided documents. The correct answer is Mark Zuckerberg.","split":"test"}
+{"id":62,"score":0.0000002345,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":63,"score":0.0000640204,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":64,"score":0.0000002382,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":65,"score":0.0000010349,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":66,"score":0.001501183,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":67,"score":0.0000000004,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":68,"score":0.0000023321,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":69,"score":0.0000003256,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":70,"score":0.0000000193,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":71,"score":0.0000074113,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":72,"score":0.9658995867,"pred":"The release date for Super Mario Odyssey on Nintendo Switch is October 27, 2017, as stated in document [4] and confirmed by the release date of 10\/27\/2017 mentioned in document [1].","split":"calib"}
+{"id":73,"score":0.0503306575,"pred":"I can answer this question based on the information provided in the documents:\n\n\"Moonlight\" won Best Picture at the 90th Academy Awards Ceremony.","split":"test"}
+{"id":74,"score":0.0000011726,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":75,"score":0.0433657989,"pred":"Chloe Zhao","split":"test"}
+{"id":76,"score":0.0000020581,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":77,"score":0.0000046379,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":78,"score":0.0000104516,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":79,"score":0.0000207852,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":80,"score":0.0001055469,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":81,"score":0.0000152069,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":82,"score":0.0000000948,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":83,"score":0.0850990638,"pred":"There are factual errors in the provided documents.\nThe correct answer is Francis Ford Coppola.","split":"calib"}
+{"id":84,"score":0.0000000313,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":85,"score":0.0000001236,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":86,"score":0.0000001716,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":87,"score":0.0000000389,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":88,"score":0.1097057834,"pred":"The Pixel 6 was announced on October 19, 2021.","split":"test"}
+{"id":89,"score":0.0159063917,"pred":"Pixel 5a was announced on August 17, 2021.","split":"test"}
+{"id":90,"score":0.000001003,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":91,"score":0.0000620505,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":92,"score":0.0000078893,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":93,"score":0.0002868544,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":94,"score":0.00014426,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":95,"score":0.9149009585,"pred":"Tim Cook is the CEO of Apple in 2021.","split":"test"}
+{"id":96,"score":0.0000009422,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":97,"score":0.0000014594,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":98,"score":0.3073581457,"pred":"According to document [3] and document [5], both indicate that Beijing was elected as the host city for the 2008 Summer Olympics under the direction of Liu Qi during the 112th IOC Session in Moscow on July 13, 2001. Therefore, the answer is","split":"calib"}
+{"id":99,"score":0.0000000308,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}

@@ -1,0 +1,6 @@
+,accuracy,rejection_rate,wrong_answer
+noise_0.0,0.977,0.007,0.017
+noise_0.4,0.973,0.013,0.013
+noise_0.8,0.82,0.127,0.053
+incomplete,,0.84,
+contradictory,0.51,0.37,0.12

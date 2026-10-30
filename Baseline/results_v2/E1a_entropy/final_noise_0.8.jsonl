@@ -1,0 +1,300 @@
+{"id":0,"score":-0.0542082228,"pred":"The premiere of 'Carole King & James Taylor: Just Call Out My Name' is January 2, 2022.","split":"test"}
+{"id":1,"score":-0.0840326771,"pred":"The genre of the drama \"Good Sam\" is medical drama and family drama.","split":"test"}
+{"id":2,"score":-0.0714042708,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":3,"score":-0.065668799,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":4,"score":-0.1538571417,"pred":"There are factual errors in the provided documents. According to document [4], Tesla delivered 936,172 vehicles in 2021.","split":"test"}
+{"id":5,"score":-0.0734292343,"pred":"There are factual errors in the provided documents. The correct answer is Evo Entertainment Group.","split":"test"}
+{"id":6,"score":-0.1312850267,"pred":"The Super Bowl is held at SoFi Stadium in Inglewood, California in 2022.","split":"test"}
+{"id":7,"score":-0.3965853751,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":8,"score":-0.1582872421,"pred":"The Fablemans won the best drama at the 79th Golden Globes.","split":"test"}
+{"id":9,"score":-0.0598069504,"pred":"Georgia Tech softball 2022 season tickets cost $100 per seat.","split":"test"}
+{"id":10,"score":-0.052808661,"pred":"The 2022 Olympic Winter Games end on 20 February 2022.","split":"test"}
+{"id":11,"score":-0.146538049,"pred":"Barcelona won the Spanish Super Cup for the first time since the competition was revamped and moved to Saudi Arabia with a 3-1 victory.","split":"calib"}
+{"id":12,"score":-0.0267084334,"pred":"Microsoft is acquiring Activision Blizzard for $95.00 per share, in an all-cash transaction valued at $68.7 billion, inclusive of Activision Blizzard's net cash.","split":"calib"}
+{"id":13,"score":-0.1115462929,"pred":"The price for a 30-second spot during the Super Bowl 2022 was $6.5 million.","split":"calib"}
+{"id":14,"score":-0.0356525183,"pred":"The Sports Star of the Year Awards Show 2022 was hosted on May 26, 2022.","split":"test"}
+{"id":15,"score":-0.0196744986,"pred":"The recipients of the 2022 Ivan Allen Jr. Prize for Social Courage are Ford Greene, Ralph Long Jr., Lawrence Williams, and Ronald Yancey.","split":"calib"}
+{"id":16,"score":-0.094423078,"pred":"The codename for Google's AR headset project is Project Iris.","split":"calib"}
+{"id":17,"score":-0.0076285959,"pred":"The name of Meta's AI supercomputer is AI Research SuperCluster (RSC).","split":"calib"}
+{"id":18,"score":-0.0786510184,"pred":"American students will begin taking the digital SAT in Spring 2024.","split":"calib"}
+{"id":19,"score":-0.0031814314,"pred":"The Paralympic Winter Games 2022 start on March 4, 2022.","split":"test"}
+{"id":20,"score":-0.1581079662,"pred":"The Super Bowl 2022 date is February 13.","split":"calib"}
+{"id":21,"score":-0.0524027646,"pred":"Carolyn R. Bertozzi, Morten Meldal, and K. Barry Sharpless won the 2022 Nobel Prize for chemistry.","split":"test"}
+{"id":22,"score":-0.1558233798,"pred":"The Los Angeles Rams defeated the Cincinnati Bengals with a score of 23\u201320 in Super Bowl LVI.","split":"calib"}
+{"id":23,"score":-0.0417049043,"pred":"Erin Jackson won the women's 500m speed skating at the 2022 Winter Olympics.","split":"test"}
+{"id":24,"score":-0.1081473604,"pred":"Lost Ark became the second most played game on Steam within twenty-four hours of its release.","split":"test"}
+{"id":25,"score":-0.0959001854,"pred":"Jessie Diggins won a silver medal in the 30-kilometer freestyle race and a bronze medal in the individual sprint race in the Beijing 2022 Olympic Games.","split":"calib"}
+{"id":26,"score":-0.0044701113,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":27,"score":-0.3825471699,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":28,"score":-0.059390679,"pred":"Elden Ring is released on February 25, 2022.","split":"test"}
+{"id":29,"score":-0.3239469826,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":30,"score":-0.4387802482,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":31,"score":-0.0363008343,"pred":"Chris Stapleton won the Male Vocalist of the Year at the 2022 CMA.","split":"test"}
+{"id":32,"score":-0.059132468,"pred":"The 2022 ACC men's basketball tournament was won by the Virginia Tech Hokies.","split":"test"}
+{"id":33,"score":-0.0917799175,"pred":"The iPhone 14 has the Apple A15 Bionic chip.","split":"test"}
+{"id":34,"score":-0.0196069423,"pred":"Google I\/O 2022 is scheduled to take place on May 11 and May 12 at the Shoreline Amphitheater.","split":"test"}
+{"id":35,"score":-0.1816123128,"pred":"Jeymes Samuel will direct the Irredeemable film.","split":"test"}
+{"id":36,"score":-0.0072594155,"pred":"The name of China's rover on Mars is Zhurong.","split":"test"}
+{"id":37,"score":-0.1765752137,"pred":"The 2022 Warrior Award is being honored to Shad Gaspard.","split":"test"}
+{"id":38,"score":-0.1610924304,"pred":"The weight of the Surface Laptop SE is 2.45 pounds.","split":"test"}
+{"id":39,"score":-0.1922266483,"pred":"Da'Vine Joy Randolph stars in The Lost City alongside Sandra Bullock, Channing Tatum, and Daniel Radcliffe.","split":"test"}
+{"id":40,"score":-0.1217934191,"pred":"Will Smith slapped comedian Chris Rock during Chris Rock's presentation for Best Documentary Feature at the 94th Academy Awards. The slap was in response to Rock's joke about Smith's wife Jada Pinkett Smith's shaved head, which she had been shaving since 2021 due to alopecia areata.","split":"calib"}
+{"id":41,"score":-0.1613681465,"pred":"Apple M2 chip was announced on June 6, 2022.","split":"calib"}
+{"id":42,"score":-0.0022483184,"pred":"CODA","split":"test"}
+{"id":43,"score":-0.0237268806,"pred":"The 94th Academy Awards will be held on Sunday, March 27, 2022.","split":"calib"}
+{"id":44,"score":-0.20450221,"pred":"A House Between Earth and the Moon was published on March 29, 2022, as mentioned in document [1].","split":"calib"}
+{"id":45,"score":-0.1117711291,"pred":"Jon Batiste's 'WE ARE' won the Album Of The Year GRAMMYs 2022.","split":"test"}
+{"id":46,"score":-0.037379019,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":47,"score":-0.0312591754,"pred":"Tesla delivered 310,048 electric vehicles in the first quarter of 2022.","split":"calib"}
+{"id":48,"score":-0.0974106789,"pred":"Elon Musk acquired Twitter.","split":"test"}
+{"id":49,"score":-0.0418697074,"pred":"Elon Musk bought Twitter at his original offer price of $54.20 a share at a total cost of roughly $44 billion.","split":"calib"}
+{"id":50,"score":-0.0308355093,"pred":"Scottie Scheffler won the 2022 Masters Tournament.","split":"test"}
+{"id":51,"score":-0.0056299702,"pred":"Ashleigh Barty won the women's singles Australian Open 2022.","split":"test"}
+{"id":52,"score":-0.2906766236,"pred":"There are factual errors in the provided documents. Based on the information given, the winner of the women's singles Australian Open 2023 is Aryna Sabalenka.","split":"calib"}
+{"id":53,"score":-0.0228184927,"pred":"Rafael Nadal won the men's singles Australian Open 2022.","split":"calib"}
+{"id":54,"score":-0.0557150953,"pred":"The 2023 Australian Open Winner in the Men\u2019s Singles category is Novak Djokovic.","split":"test"}
+{"id":55,"score":-0.2625062466,"pred":"Rafael Nadal was the 2022 French Open champion, winning his 22nd and most recent grand slam title. However, the document does not explicitly state who won the women's singles title. To accurately answer who won the women's singles French Open 2022, we need","split":"test"}
+{"id":56,"score":-0.0511184148,"pred":"Iga Swiatek won the women's singles French Open 2023.","split":"calib"}
+{"id":57,"score":-0.0323220491,"pred":"Karolina Muchova is the runner-up in the women's singles at the 2023 French Open.","split":"calib"}
+{"id":58,"score":-0.1868138164,"pred":"There are factual errors in the provided documents. According to the documents, Novak Djokovic won the men's singles French Open 2022.","split":"calib"}
+{"id":59,"score":-0.0599516965,"pred":"Novak Djokovic won the men's singles French Open 2023.","split":"calib"}
+{"id":60,"score":-0.1151099429,"pred":"The women's singles Wimbledon 2022 champion was Elena Rybakina, who defeated Ons Jabeur in the final.","split":"test"}
+{"id":61,"score":-0.105912894,"pred":"Mark\u00e9ta Vondrou\u0161ov\u00e1 was the winner of the women's singles Wimbledon 2023.","split":"test"}
+{"id":62,"score":-0.1187238246,"pred":"There are factual errors in the provided documents. Based on the information given, Novak Djokovic won the men's singles Wimbledon 2022.","split":"calib"}
+{"id":63,"score":-0.034824457,"pred":"Carlos Alcaraz won the men's singles Wimbledon 2023.","split":"calib"}
+{"id":64,"score":-0.1439373195,"pred":"Swiatek has won eight titles in the 2022 season.","split":"test"}
+{"id":65,"score":-0.3728073537,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":66,"score":-0.0005967531,"pred":"Carlos Alcaraz won the men's singles U.S. Open 2022.","split":"test"}
+{"id":67,"score":-0.3131490648,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":68,"score":-0.0071558328,"pred":"Consensus 2022 is taking place in Austin, Texas.","split":"calib"}
+{"id":69,"score":-0.0194498878,"pred":"The 148th Kentucky Derby took place on May 7, 2022.","split":"calib"}
+{"id":70,"score":-0.001302711,"pred":"Tesla's revenue in Q1 2022 was $18.76 billion.","split":"test"}
+{"id":71,"score":-0.0543461107,"pred":"Splatoon 3 will release on September 9, 2022.","split":"calib"}
+{"id":72,"score":-0.0850390196,"pred":"Jahm Najafi's Najafi Companies acquired STX Entertainment from ErosSTX for $173 million.","split":"test"}
+{"id":73,"score":-0.0405173376,"pred":"Orrin G. Hatch passed away on April 23, 2022.","split":"test"}
+{"id":74,"score":-0.1582545787,"pred":"The new CEO of CNN is Chris Licht.","split":"calib"}
+{"id":75,"score":-0.0726452172,"pred":"Emmanuel Macron won the French Presidential Election 2022.","split":"test"}
+{"id":76,"score":-0.1813301295,"pred":"The main camera on the iPhone 14 Pro has a resolution of 48MP.","split":"test"}
+{"id":77,"score":-0.0503400601,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":78,"score":-0.0680080503,"pred":"The 2022 Met Gala will take place at the Metropolitan Museum of Art.","split":"test"}
+{"id":79,"score":-0.0163792372,"pred":"Manchester City won the Champions League in the 2022-2023 season.","split":"calib"}
+{"id":80,"score":-0.0506902859,"pred":"The teams playing in the 2021-22 NBA Finals are the Golden State Warriors and the Boston Celtics.","split":"test"}
+{"id":81,"score":-0.0510911681,"pred":"The prize money for the Squid Game-inspired reality competition is $4.56 million.","split":"calib"}
+{"id":82,"score":-0.0563303716,"pred":"Overwatch 2 was released on October 4, 2022.","split":"test"}
+{"id":83,"score":-0.0581225157,"pred":"Jonas Vingegaard won the 2022 Tour de France.","split":"test"}
+{"id":84,"score":-0.0014342851,"pred":"Apple's revenue in Q3 2022 was $83.0 billion.","split":"test"}
+{"id":85,"score":-0.0951731876,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":86,"score":-0.0329003893,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":87,"score":-0.0872074068,"pred":"Xenoblade Chronicles 3 was released on July 29.","split":"test"}
+{"id":88,"score":-0.3124849796,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":89,"score":-0.0472883284,"pred":"Neal Lemlein passed away on July 22, 2022.","split":"test"}
+{"id":90,"score":-0.0514598936,"pred":"Joo Won is the lead actor in the film Carter.","split":"calib"}
+{"id":91,"score":-0.1034024507,"pred":"BlenderBot 3 was released on Friday, August 5.","split":"test"}
+{"id":92,"score":-1.0175886154,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":93,"score":-0.07733538,"pred":"ChatGPT was released on November 30, 2022.","split":"calib"}
+{"id":94,"score":-0.0136277052,"pred":"GPT-4 was released on March 14, 2023.","split":"calib"}
+{"id":95,"score":-0.0270823762,"pred":"Amazon agreed to pay $1.7 billion to acquire iRobot.","split":"test"}
+{"id":96,"score":-0.0337738916,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":97,"score":-0.0527180806,"pred":"Microsoft released Windows 11 22H2 on September 20, 2022.","split":"calib"}
+{"id":98,"score":-0.0703620538,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":99,"score":-0.0515382662,"pred":"Konnor McClain won the U.S. all-around title at the U.S. Gymnastics Nationals 2022.","split":"test"}
+{"id":100,"score":-0.0223156791,"pred":"The new price of Tesla's Full-Self Driving (FSD) software is $15,000.","split":"test"}
+{"id":101,"score":-0.0176620614,"pred":"The premiere date of House of the Dragon is August 21, 2022.","split":"calib"}
+{"id":102,"score":-0.0183527209,"pred":"The release date for Sony's PlayStation VR2 headset is February 22, 2023.","split":"test"}
+{"id":103,"score":-0.0562203079,"pred":"The new venture launched by Tiger Woods and Rory McIlroy is TMRW Sports.","split":"test"}
+{"id":104,"score":-0.3479072452,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":105,"score":-0.0596388839,"pred":"Caleb Williams is the Heisman Trophy winner in 2022.","split":"test"}
+{"id":106,"score":-0.0155916177,"pred":"The Amazing Race Season 34 premiered on Wednesday, Sept. 21 at 10\/9c on CBS.","split":"test"}
+{"id":107,"score":-0.0498703383,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":108,"score":-0.0489317663,"pred":"The TGL season will start in January 2024.","split":"test"}
+{"id":109,"score":-0.0633506998,"pred":"The director of the BioShock movie is Francis Lawrence.","split":"test"}
+{"id":110,"score":-0.1281674504,"pred":"The premiere date of New Amsterdam Season 5 is Tuesday, September 20.","split":"calib"}
+{"id":111,"score":-0.082423225,"pred":"Argentina won the World Cup Final in 2022.","split":"calib"}
+{"id":112,"score":-0.1206726506,"pred":"Chris Higgins is the chief meteorologist for KPLR-TV.","split":"calib"}
+{"id":113,"score":-0.0162939914,"pred":"The new head of development at Riff Raff Entertainment is Katie Sinclair.","split":"test"}
+{"id":114,"score":-0.178299129,"pred":"Texas Tech paid Marlene Stollings a total of $740,000 in the settlement. This amount includes $300,000 for alleged compensatory damages, $300,000 for attorneys' fees and expenses, and $140,666","split":"calib"}
+{"id":115,"score":-0.1096488163,"pred":"Sony and Tencent acquired a stake in FromSoftware.","split":"test"}
+{"id":116,"score":-0.0691146702,"pred":"Camila Cabello is the new Coach for The Voice Season 22.","split":"calib"}
+{"id":117,"score":-0.1046183482,"pred":"The unemployment rate in August 2022 in U.S. was 3.8%.","split":"test"}
+{"id":118,"score":-0.2829896808,"pred":"There are factual errors in the provided documents. Based on the information given, Serena Williams lost to Emma Raducanu in her last match at the U.S. Open.","split":"calib"}
+{"id":119,"score":-0.0316886082,"pred":"Eight people were injured in the shuttle van accident on Palisades Interstate Parkway.","split":"calib"}
+{"id":120,"score":-0.0241165888,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":121,"score":-0.2547468245,"pred":"Tanya Pardazi died in a tragic skydiving accident while performing her first solo jump. According to the skydiving company, she opened her parachute too late while in the air, resulting in fatal injuries.","split":"test"}
+{"id":122,"score":-0.087402083,"pred":"Mickey Joseph was named the interim head coach for Nebraska's 2022 season.","split":"test"}
+{"id":123,"score":-0.0238528103,"pred":"The release date of Jackie Evancho's album Carousel of Time is September 9, 2022.","split":"test"}
+{"id":124,"score":-0.0418499447,"pred":"The companies part of the MATANA group are Microsoft Corporation (NASDAQ: MSFT), Apple Inc, Tesla Inc (NASDAQ: TSLA), Alphabet Inc (NASDAQ: GOOGL), Nvidia Corp (NASDAQ: NVDA), and Amazon.com Inc.","split":"test"}
+{"id":125,"score":-0.0634971857,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":126,"score":-0.1274888664,"pred":"There are factual errors in the provided documents. The correct number of teams in the expanded College Football Playoff is 12.","split":"test"}
+{"id":127,"score":-0.051122684,"pred":"Qatar will play against Ecuador in the opening match of the 2022 World Cup.","split":"test"}
+{"id":128,"score":-0.396735847,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":129,"score":-0.0282070525,"pred":"The 2022 NFL Football Season begins on September 8, 2022, with the defending Super Bowl LVI champion Los Angeles Rams falling to Buffalo in the NFL Kickoff Game.","split":"test"}
+{"id":130,"score":-0.1485721767,"pred":"Meta Connect took place on October 11.","split":"test"}
+{"id":131,"score":-0.0969927236,"pred":"The fine that Meta is facing for failing to safeguard children's information on Instagram is 405 million euros.","split":"test"}
+{"id":132,"score":-0.0011780821,"pred":"Gotham Knights was released on October 21.","split":"test"}
+{"id":133,"score":-0.1256121099,"pred":"Bernard Shaw died from pneumonia.","split":"test"}
+{"id":134,"score":-0.0987678915,"pred":"Queen Elizabeth II died at 15:10 BST on 8 September 2022 at the age of 96.","split":"test"}
+{"id":135,"score":-0.2054241151,"pred":"Balmoral Castle, her estate in the Scottish Highlands.","split":"calib"}
+{"id":136,"score":-0.0673174039,"pred":"Carlos Alcaraz beat Frances Tiafoe in the U.S. Open 2022 Men's Semifinals.","split":"calib"}
+{"id":137,"score":-0.183548823,"pred":"The U.K.'s King Charles III was officially crowned in a ceremony at Westminster Abbey on May 6, 2023, following his proclamation as king on September 10, 2022.","split":"test"}
+{"id":138,"score":-0.2840895653,"pred":"Trace Adkins is cast as Albie Roman, the patriarch in Monarch.","split":"test"}
+{"id":139,"score":-0.0405112877,"pred":"The iPhone 14 Plus was made available on October 7, 2022.","split":"test"}
+{"id":140,"score":-0.066947557,"pred":"Kiersey Clemons stars as Susie Wallis in Susie Searches.","split":"calib"}
+{"id":141,"score":-0.1302177161,"pred":"The new products at Chick-fil-A in fall 2022 are the Autumn Spice Milkshake and the Grilled Spicy Deluxe Sandwich. These items will be available nationwide from September 12 through November 12, while supplies last.","split":"test"}
+{"id":142,"score":-0.007809015,"pred":"Kyle Busch will join Richard Childress Racing in 2023.","split":"calib"}
+{"id":143,"score":-0.0977388918,"pred":"The men's year-end No. 1 in tennis in 2022 is Carlos Alcaraz.","split":"test"}
+{"id":144,"score":-0.0044130334,"pred":"Titus Welliver was playing Lex Luthor in Titans.","split":"test"}
+{"id":145,"score":-0.0481094196,"pred":"Columbia University's QS ranking in 2023 is 22nd.","split":"test"}
+{"id":146,"score":-0.1007397547,"pred":"Lee Jung-jae","split":"test"}
+{"id":147,"score":-0.0689303279,"pred":"Google acquired Mandiant for $5.4 billion.","split":"calib"}
+{"id":148,"score":-0.001584853,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":149,"score":-0.031243626,"pred":"Gayle King is receiving the 39th Walter Cronkite Award for Excellence in Journalism.","split":"test"}
+{"id":150,"score":-0.0062421095,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":151,"score":-0.0164767075,"pred":"The Legend of Zelda: Tears of the Kingdom was released on May 12, 2023.","split":"test"}
+{"id":152,"score":-0.0457882918,"pred":"Hocus Pocus 2 was released on Disney+ on September 30.","split":"test"}
+{"id":153,"score":-0.0207064711,"pred":"ACL 2023 is taking place from July 9th to July 14th.","split":"test"}
+{"id":154,"score":-0.0437403768,"pred":"ACL 2023 will take place in the Westin Harbour Castle in Toronto.","split":"test"}
+{"id":155,"score":-0.0394260027,"pred":"EMNLP 2023 will take place in Singapore from Dec 6th to Dec 10th, 2023.","split":"calib"}
+{"id":156,"score":-0.0740725398,"pred":"EMNLP 2023 will take place in Singapore.","split":"test"}
+{"id":157,"score":-0.0534569509,"pred":"The starting price for Virginia Tech 2023 football season tickets is $350.","split":"test"}
+{"id":158,"score":-0.0501062609,"pred":"The date of the Wine OFF the Fox benefit concert is October 22.","split":"test"}
+{"id":159,"score":-0.0337263942,"pred":"The funeral of Queen Elizabeth II took place on 19 September.","split":"test"}
+{"id":160,"score":-0.2564495206,"pred":"The state funeral of Queen Elizabeth II took place at Westminster Abbey, followed by a procession to Wellington Arch. The coffin was then transported to Windsor Castle for a committal service at St George's Chapel.","split":"test"}
+{"id":161,"score":-0.0937957093,"pred":"The top two contestants in the America's Got Talent Season 17 finale were Mayyas and Kristy Sellars. Mayyas won the show, while Kristy Sellars was the runner-up.","split":"test"}
+{"id":162,"score":-0.0709341466,"pred":"MotorCity Cage Night XII is on Friday, November 18, 2022.","split":"calib"}
+{"id":163,"score":-0.1015173793,"pred":"Two people died in the mid-air collision in Boulder County.","split":"calib"}
+{"id":164,"score":-0.2704438865,"pred":"Giorgia Meloni","split":"test"}
+{"id":165,"score":-0.3501260877,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":166,"score":-0.1335602254,"pred":"Las Vegas Aces won the WNBA Finals 2022.","split":"test"}
+{"id":167,"score":-0.0489819124,"pred":"Tuesday, January 10, 2023","split":"test"}
+{"id":168,"score":-0.0726833269,"pred":"The Pixel Watch was officially announced on October 6, 2022, at the annual Made by Google event, and was released in the United States on October 13, 2022.","split":"test"}
+{"id":169,"score":-0.0042759213,"pred":"Robin Roberts was honored with a Lifetime Professional Achievement Award at the Seton Hall's Center for Sports Media Gala.","split":"calib"}
+{"id":170,"score":-0.0498566069,"pred":"Barbadian singer Rihanna performed at the Super Bowl LVII Halftime Show.","split":"test"}
+{"id":171,"score":-0.0305055995,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":172,"score":-0.1764619946,"pred":"There are factual errors in the provided documents. According to the documents, 41-year-old Tetsuya Yamagami was arrested and charged with murder after Abe was pronounced dead. Therefore, Tetsuya Yamagami killed Shinzo Abe.","split":"calib"}
+{"id":173,"score":-0.0496687666,"pred":"The State funeral of Shinzo Abe was held on 27 September 2022.","split":"test"}
+{"id":174,"score":-0.0636120737,"pred":"The title of House of the Dragon's sixth episode is \"House of the Dragon: Season 1 Critics Consensus\".","split":"calib"}
+{"id":175,"score":-0.1182027534,"pred":"Times Square Grand Slam has been sold to an Austin-based entertainment group.","split":"calib"}
+{"id":176,"score":-0.0243999492,"pred":"The premiere date of Derry Girls Season 3 is Oct. 7.","split":"calib"}
+{"id":177,"score":-0.0066063516,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":178,"score":-0.0421324,"pred":"Annie Ernaux was awarded the 2022 Nobel Prize in Literature.","split":"test"}
+{"id":179,"score":-0.442612797,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":180,"score":-0.0191424768,"pred":"Max Verstappen secured his second World Championship title after finishing first in the 2022 Japanese Grand Prix.","split":"calib"}
+{"id":181,"score":-0.0266666543,"pred":"Sarah Shahi","split":"test"}
+{"id":182,"score":-0.0187078975,"pred":"Raymond Lee stars as Dr. Ben Seong in the Quantum Leap revival.","split":"test"}
+{"id":183,"score":-0.1370702982,"pred":"The RTX 4090 is available at most major retailers in the US at an MSRP of $1599. However, in current listings, you should expect this number to vary from $1599, all the way to around $2000 for the higher-end AIB","split":"calib"}
+{"id":184,"score":-0.2731628418,"pred":"The release date of Sweetwater is April 14, 2023, as announced by the recent update from Briarcliff Entertainment.","split":"test"}
+{"id":185,"score":-0.0886288136,"pred":"The Google Pixel Watch started selling on October 13.","split":"calib"}
+{"id":186,"score":-0.0138641372,"pred":"The recipient of the 2022 Tom Hanks Caregiver Champion Award is Savannah Guthrie.","split":"calib"}
+{"id":187,"score":-0.0397024527,"pred":"The president of the Prospect Park Alliance is Morgan Monaco.","split":"test"}
+{"id":188,"score":-0.2548676431,"pred":"Riot Games acquired Wargaming Sydney.","split":"test"}
+{"id":189,"score":-0.1599437594,"pred":"The new CEO of Yahoo is Jim Lanzone, as indicated in Gowrappan's memo dated September 27, 2021.","split":"test"}
+{"id":190,"score":-0.0222608261,"pred":"Netflix added 2.41 million global subscribers in the third quarter of 2022.","split":"test"}
+{"id":191,"score":-0.0640253499,"pred":"The title of Chicago P.D. Season 10, Episode 4 is \"Donde Vives\".","split":"test"}
+{"id":192,"score":-0.1102897376,"pred":"The YouTube Premium family plan now costs $22.99 per month.","split":"test"}
+{"id":193,"score":-0.0233485047,"pred":"The release date of God of War Ragnarok is November 9, 2022.","split":"calib"}
+{"id":194,"score":-0.0012734642,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":195,"score":-0.1332953125,"pred":"Rishi Sunak is the new prime minister of the United Kingdom.","split":"test"}
+{"id":196,"score":-0.0415583365,"pred":"Rishi Sunak became Prime Minister of the UK on 25 October 2022.","split":"test"}
+{"id":197,"score":-0.0013051451,"pred":"The Netflix Basic with Ads subscription costs $6.99 per month.","split":"calib"}
+{"id":198,"score":-0.0667477772,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":199,"score":-0.3392322063,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":200,"score":-0.0231550876,"pred":"Mark Kelly won the Arizona Senatorial Election 2022.","split":"test"}
+{"id":201,"score":-0.0101801027,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":202,"score":-0.2450897992,"pred":"U.S. Sen. Catherine Cortez Masto won the U.S. Senate race in Nevada in the 2022 midterm elections. This is indicated by the statement from document [2], where it is mentioned that \"The Associated Press called the Nevada Senate race for Democrat Sen. Catherine Cortez Masto on","split":"test"}
+{"id":203,"score":-0.2508155107,"pred":"There are factual errors in the provided documents. Based on the information given, John R. Leonetti directed Lullaby.","split":"test"}
+{"id":204,"score":-0.1392254382,"pred":"Millie Gibson is the Doctor's new companion in Doctor Who.","split":"test"}
+{"id":205,"score":-0.0173268635,"pred":"Ralph Lauren designed Naomi Biden's wedding dress.","split":"test"}
+{"id":206,"score":-0.4719104767,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":207,"score":-0.1525875479,"pred":"U.S. is in Group B of the World Cup 2022.","split":"test"}
+{"id":208,"score":-0.0866526291,"pred":"Argentina is in Group C of the 2022 FIFA World Cup.","split":"test"}
+{"id":209,"score":-0.0303417351,"pred":"The title of the new season of \"Criminal Minds\" is Criminal Minds: Evolution.","split":"test"}
+{"id":210,"score":-0.0784239769,"pred":"Nebraska's new head football coach is Matt Rhule.","split":"test"}
+{"id":211,"score":-0.3412902355,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":212,"score":-0.1366445869,"pred":"The Merriam-Webster's 2022 Word of the Year is loamy.","split":"test"}
+{"id":213,"score":-0.0030735766,"pred":"SM Entertainment is setting up its Southeast Asian headquarters in Singapore.","split":"calib"}
+{"id":214,"score":-0.2714804411,"pred":"There are factual errors in the provided documents. The correct unemployment rate in November 2022 is 3.7% (seasonally adjusted).","split":"calib"}
+{"id":215,"score":-0.0420213751,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":216,"score":-0.043149624,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":217,"score":-0.5461855531,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":218,"score":-0.1202611774,"pred":"Margot Robbie is starring as Barbie in the movie \"Barbie\". Ryan Gosling is starring as Ken.","split":"calib"}
+{"id":219,"score":-0.0112681538,"pred":"Tyler Adams is the captain of the USA soccer team in the FIFA Men's World Cup 2022.","split":"test"}
+{"id":220,"score":-0.077214174,"pred":"Costco won Yahoo Finance's 2022 \"Company of the Year\" Award.","split":"test"}
+{"id":221,"score":-0.1938994527,"pred":"President Joe Biden put nearly $36 billion into the union pension plan.","split":"calib"}
+{"id":222,"score":-0.08071208,"pred":"Caleb Williams won the 2022 Maxwell Award in college football.","split":"test"}
+{"id":223,"score":-0.5512000322,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":224,"score":-0.0776274726,"pred":"Nelly Cheboi is the 2022 CNN Hero of the Year.","split":"test"}
+{"id":225,"score":-0.0115205701,"pred":"The championship game of the Patriot League Men\u2019s Lacrosse Championship 2023 is on Sunday, May 7, at noon on Nickerson Field.","split":"test"}
+{"id":226,"score":-0.0312470309,"pred":"Adam Sandler will be receiving the Mark Twain Prize for American Humor in 2023.","split":"test"}
+{"id":227,"score":-0.1043607146,"pred":"The new president of the NCAA is Massachusetts Gov. Charlie Baker.","split":"test"}
+{"id":228,"score":-0.4232057333,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":229,"score":-0.0610035956,"pred":"The CEO of Yuga Labs is Daniel Alegre.","split":"calib"}
+{"id":230,"score":-0.1027168557,"pred":"Avatar: The Way of Water earned $134 million from North American theaters in its debut weekend.","split":"test"}
+{"id":231,"score":-0.0702146217,"pred":"The Final Fantasy Pixel Remaster Series is launching digitally for PlayStation 4 (PS4\u2122) console and Nintendo Switch\u2122 system on April 19, 2023.","split":"test"}
+{"id":232,"score":-0.0479282215,"pred":"'Guillermo del Toro's Pinocchio' won the Oscar for Best Animated Film in 2023.","split":"test"}
+{"id":233,"score":-0.1685940325,"pred":"The document mentions that asteroid 2022 YG was discovered by amateur astronomer Gennadiy Borisov at Nauchnyi, Crimea on 15 December 2022. Therefore, the answer to the question \"Who discovered asteroid 2022 YG?\" is Genn","split":"test"}
+{"id":234,"score":-0.1635174453,"pred":"Georgia won the Peach Bowl 2022.","split":"calib"}
+{"id":235,"score":-0.0264719203,"pred":"No. 16 Michigan Tech won the 2023 Desert Hockey Classic.","split":"calib"}
+{"id":236,"score":-0.003586435,"pred":"The price of Microsoft 365 Basic per month is $1.99.","split":"test"}
+{"id":237,"score":-0.001011672,"pred":"Calvin Edgar Fox passed away on January 18, 2023.","split":"calib"}
+{"id":238,"score":-0.0008460514,"pred":"Rebel Moon will premiere on Netflix on December 22, 2023.","split":"test"}
+{"id":239,"score":-0.2072000802,"pred":"Scream VI released in theaters on March 10 and is available to stream on Paramount Plus on April 25.","split":"test"}
+{"id":240,"score":-0.0532194972,"pred":"The annual GDP growth rate of the U.S. economy in 2022 was 2.1 percent.","split":"calib"}
+{"id":241,"score":-0.0645939782,"pred":"Zachary Levi will be playing the role of Billy Batson in Shazam! Fury of the Gods.","split":"test"}
+{"id":242,"score":-0.0129053025,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":243,"score":-0.0711262971,"pred":"The congressional hearing for TikTok CEO Shou Zi Chew is scheduled for March 23, 2023.","split":"test"}
+{"id":244,"score":-0.0753553659,"pred":"The final season of The Blacklist premiered on February 26, 2023.","split":"test"}
+{"id":245,"score":-0.0147122853,"pred":"The title of the AI-generated episode of Seinfeld is \"Nothing, Forever\".","split":"test"}
+{"id":246,"score":-0.0254711304,"pred":"The voucher amount per student in the Students First Act is $7,598.","split":"test"}
+{"id":247,"score":-0.0632669404,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":248,"score":-0.0127623901,"pred":"Google's new AI chatbot is called Bard.","split":"test"}
+{"id":249,"score":-0.1610930115,"pred":"David Holz founded Midjourney.","split":"test"}
+{"id":250,"score":-0.6621149778,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":251,"score":-0.1180982217,"pred":"Bill Ready is the new CEO of Pinterest.","split":"test"}
+{"id":252,"score":-0.0255590677,"pred":"The release date for Pikmin 4 on Nintendo Switch is Friday, July 21, 2023.","split":"test"}
+{"id":253,"score":-0.0742119849,"pred":"Meta laid off more than 11,000 people, or about 13 percent of its workforce at the time, in November.","split":"test"}
+{"id":254,"score":-0.1492465585,"pred":"Amazon acquired iRobot.","split":"test"}
+{"id":255,"score":-0.0414534658,"pred":"The Kansas City Chiefs won Super Bowl LVII.","split":"test"}
+{"id":256,"score":-0.084833838,"pred":"SM Entertainment's revenue grew 18.7% to 848.3 billion won in 2022.","split":"test"}
+{"id":257,"score":-0.1999526769,"pred":"Meta AI trained LLaMA.","split":"test"}
+{"id":258,"score":-0.0325792246,"pred":"Everything Everywhere All at Once won Best Picture at the 95th Academy Awards Ceremony.","split":"calib"}
+{"id":259,"score":-0.0017307812,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":260,"score":-0.0513019897,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":261,"score":-0.0695753694,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":262,"score":-0.0889972374,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":263,"score":-0.0034956259,"pred":"The new monthly price for YouTube TV is $72.99.","split":"calib"}
+{"id":264,"score":-0.0730144009,"pred":"Gina Miles won The Voice Season 23.","split":"test"}
+{"id":265,"score":-0.1104896069,"pred":"Chris Cocks is the CEO of Hasbro, effective February 25, 2022.","split":"calib"}
+{"id":266,"score":-0.0126833785,"pred":"ESPN received the most nominations for the 2023 Sports Emmy Awards with 59 total nominations.","split":"test"}
+{"id":267,"score":-0.0975588039,"pred":"Beau Ferrari is the Chairman of NBCUniversal Telemundo Enterprises.","split":"test"}
+{"id":268,"score":-0.088184692,"pred":"The name of Elon Musk's new AI company is X.AI.","split":"test"}
+{"id":269,"score":-0.0412603952,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":270,"score":-0.1737209558,"pred":"There are factual errors in the provided documents. The correct answer is Rebecka Peterson.","split":"test"}
+{"id":271,"score":-0.0325471088,"pred":"The 2023 Douglas County Fair & Rodeo starts on July 28.","split":"test"}
+{"id":272,"score":-0.1522688568,"pred":"Apple's first two stores in India are set to be opened inside an upscale mall in Mumbai's Bandra Kurla Complex.","split":"calib"}
+{"id":273,"score":-0.0979703888,"pred":"The 2023 CAA World Congress of Sports will be held in Los Angeles at the JW Marriott Los Angeles L.A. LIVE.","split":"calib"}
+{"id":274,"score":-0.0517062694,"pred":"Sundar Pichai's total compensation in 2022 was valued at $226 million.","split":"test"}
+{"id":275,"score":-0.2173965871,"pred":"The Google I\/O conference 2023 is scheduled for May 10, 2023.","split":"test"}
+{"id":276,"score":-0.0734671131,"pred":"The lead actress in Prima Facie is Jodie Comer.","split":"test"}
+{"id":277,"score":-0.0149657354,"pred":"The name of the AI dating tool Coyne Lloyd used is Rizz.","split":"calib"}
+{"id":278,"score":-0.4173639417,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":279,"score":-0.5177326798,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":280,"score":-0.127170682,"pred":"Cal Kestis","split":"test"}
+{"id":281,"score":-0.051108472,"pred":"The director of \"Polite Society\" is Nida Manzoor.","split":"test"}
+{"id":282,"score":-0.1214361489,"pred":"Grand Crew Season 2 ended on April 28.","split":"test"}
+{"id":283,"score":-0.0627975613,"pred":"Roy Wood Jr. hosted the 2023 White House Correspondents' Dinner.","split":"test"}
+{"id":284,"score":-0.0483138971,"pred":"The Chinese city of Chengdu will host The World Games 2025.","split":"test"}
+{"id":285,"score":-0.0565221049,"pred":"The new CEO of TCW Group is Katie Koch.","split":"test"}
+{"id":286,"score":-0.0165552944,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":287,"score":-0.1876501292,"pred":"The name of Google's foldable smartphone is Pixel Fold.","split":"calib"}
+{"id":288,"score":-0.0619766414,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":289,"score":-0.0018878944,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":290,"score":-0.0602031574,"pred":"Microsoft 365 Copilot","split":"calib"}
+{"id":291,"score":-0.1154084504,"pred":"The name of Google's AI image editing tool is the Magic Editor.","split":"test"}
+{"id":292,"score":-0.0537366532,"pred":"The ChatGPT app for iOS was launched on May 18, 2023.","split":"calib"}
+{"id":293,"score":-0.0526472144,"pred":"The 2023 NBA Draft will take place on Thursday, June 22.","split":"calib"}
+{"id":294,"score":-0.046550516,"pred":"The price of the Apple Vision Pro headset is $3,499.","split":"calib"}
+{"id":295,"score":-0.2183391601,"pred":"The name of Apple's headset is Vision Pro.","split":"test"}
+{"id":296,"score":-0.2745387852,"pred":"There are factual errors in the provided documents. The correct answer cannot be determined from the given documents because the documents do not explicitly state who the CEO of Maven is.","split":"test"}
+{"id":297,"score":-0.2274164408,"pred":"There are factual errors in the provided documents. Based on the information given, Rickie Fowler ended up tied for fifth place, while Wyndham Clark won the 2023 U.S. Open golf tournament.","split":"test"}
+{"id":298,"score":-0.1624575108,"pred":"The start date of Prime Day 2023 is Tuesday, July 11. According to the document, Amazon announced its first Prime Day of 2023 will take place on Tuesday, July 11, and Wednesday, July 12.","split":"test"}
+{"id":299,"score":-0.2091109753,"pred":"There are factual errors in the provided documents. The correct answer is Patrick Mahomes, as he was the MVP of Super Bowl LVII held on February 12, 2023.","split":"test"}

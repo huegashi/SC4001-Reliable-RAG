@@ -1,0 +1,100 @@
+{"id":0,"score":-0.2489974797,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":1,"score":-0.1108730808,"pred":"There are factual errors in the provided documents. The United States won the most medals at the 2018 Winter Olympics with 39 medals. Norway came second with 35 medals.","split":"test"}
+{"id":2,"score":-0.1428758055,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":3,"score":-0.105657652,"pred":"There are factual errors in the provided documents. WhatsApp was initially acquired by Facebook in 2014, not Apple.","split":"test"}
+{"id":4,"score":-0.0989723206,"pred":"There are factual errors in the provided documents. The correct winner of the women's singles Wimbledon in 2019 was Simona Halep, as stated in document [4] and [5].","split":"calib"}
+{"id":5,"score":-0.009534114,"pred":"Angelique Kerber won the women's singles Wimbledon in 2018.","split":"test"}
+{"id":6,"score":-0.00157549,"pred":"Ashleigh Barty won the women's singles Wimbledon in 2021.","split":"test"}
+{"id":7,"score":-0.0471418872,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":8,"score":-0.1388427019,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":9,"score":-0.1336952001,"pred":"There are factual errors in the provided documents. Based on the information given, Andy Murray defeated Alexander Zverev in the final of the 2020 US Open to win the men's singles tennis title.","split":"test"}
+{"id":10,"score":-0.0807567239,"pred":"There are factual errors in the provided documents. The correct winner of the women's singles U.S. Open in 2019 was Emma Raducanu.","split":"test"}
+{"id":11,"score":-0.0430106223,"pred":"Rafael Nadal defeated Novak Djokovic in the men's singles U.S. Open 2021.","split":"test"}
+{"id":12,"score":-0.1552514732,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":13,"score":-0.1033651009,"pred":"There are factual errors in the provided documents. Tesla's revenue in Q2 2020 was either $6.04 billion or $1.04 billion, depending on the document.","split":"test"}
+{"id":14,"score":-0.2336006016,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":15,"score":-0.0150228804,"pred":"Splatoon 2 was released on July 21, 2017.","split":"test"}
+{"id":16,"score":-0.0010159989,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":17,"score":-0.0797218457,"pred":"Emmanuel Macron won the French Presidential Election 2017.","split":"calib"}
+{"id":18,"score":-0.0922949463,"pred":"There are factual errors in the provided documents. Joe Biden wins election to be the 46th US President.","split":"calib"}
+{"id":19,"score":-0.0408490822,"pred":"Diablo 3 was released on May 15, 2012.","split":"test"}
+{"id":20,"score":-0.2000536025,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":21,"score":-0.1592874527,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":22,"score":-0.192909658,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":23,"score":-0.1080335677,"pred":"I can not answer the question because of insufficient information in documents.\nThere are conflicting dates in the documents for when Xenoblade Chronicles X was released in Japan. Document [1] states it was on April 9, 2005, while Document [3] states it was on April 29,","split":"test"}
+{"id":24,"score":-0.0022703437,"pred":"Xenoblade Chronicles: Definitive Edition was released on May 29, 2020.","split":"test"}
+{"id":25,"score":-0.3405771852,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":26,"score":-0.0869636238,"pred":"I can not answer the question because of insufficient information in documents.\nThere are conflicting or incorrect information in the provided documents. Document [1] states that OpenAI was founded in December 2015, while document [5] claims it was founded in December 2005.","split":"test"}
+{"id":27,"score":-0.1718446314,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":28,"score":-0.0836515129,"pred":"There are factual errors in the provided documents. In 2017, Baker Mayfield won the Walter Camp Award.","split":"calib"}
+{"id":29,"score":-0.1764267385,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":30,"score":-0.3494151235,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":31,"score":-0.2510632277,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":32,"score":-0.0177882016,"pred":"There are factual errors in the provided documents.\nThe director of the Assassin's Creed movie is Justin Kurzel.","split":"test"}
+{"id":33,"score":-0.0617273115,"pred":"Dec 14, 2020","split":"calib"}
+{"id":34,"score":-0.0433335826,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":35,"score":-0.0155822607,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":36,"score":-0.0100833941,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":37,"score":-0.0018483679,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":38,"score":-0.0431614853,"pred":"There are factual errors in the provided documents. Marvel's Spider-Man was released for the PlayStation 4 on September 7, 2018.","split":"test"}
+{"id":39,"score":-0.0026074988,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":40,"score":-0.0398250557,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":41,"score":-0.0549260527,"pred":"There are factual errors in the provided documents. Iga \u015awi\u0105tek, currently ranked No. 1 in women's singles, was the women's year-end No. 1 in tennis in 2020.","split":"calib"}
+{"id":42,"score":-0.1257592887,"pred":"Rafael Nadal is the men's year-end No. 1 ATP Ranking in tennis in 2019.","split":"test"}
+{"id":43,"score":-0.207790181,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":44,"score":-0.098248288,"pred":"I can not answer the question because of insufficient information in documents.\nThere are conflicting dates provided in the documents for the release of The Legend of Zelda: Breath of the Wild. Document [2] states it was released on March 3, 2017, while document [5] states it was released on","split":"test"}
+{"id":45,"score":-0.2362606078,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":46,"score":-0.0083973175,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":47,"score":-0.1388230175,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":48,"score":-0.3467404842,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":49,"score":-0.0183493327,"pred":"Abdulrazak Gurnah was awarded the 2019 Nobel Prize in Literature.","split":"test"}
+{"id":50,"score":-0.0384290777,"pred":"There are factual errors in the provided documents. The Nobel Prize in Literature 2018 was awarded to Olga Tokarczuk and Peter Handke.","split":"calib"}
+{"id":51,"score":-0.1143258438,"pred":"The release date of God of War (2018) is April 20, 2018, as stated in document [3] and [5].","split":"calib"}
+{"id":52,"score":-0.0843878537,"pred":"The Last of Us Part II was released on June 19, 2020, as stated in documents [3] and [4].","split":"test"}
+{"id":53,"score":-0.102361083,"pred":"I can not answer the question because of insufficient information in documents.\nThere are conflicting dates provided in the documents: December 2, 2020 and December 10, 2020.","split":"test"}
+{"id":54,"score":-0.0387982987,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":55,"score":-0.0481691323,"pred":"The Crown season 3 premieres on Sunday, November 17.","split":"test"}
+{"id":56,"score":-0.095240891,"pred":"Titanic was directed by James Cameron.","split":"test"}
+{"id":57,"score":-0.0312578194,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":58,"score":-0.1329574138,"pred":"Chinese-American actress Yifei Liu is starring as Mulan in the movie \"Mulan\" according to document [5].","split":"calib"}
+{"id":59,"score":-0.002186513,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":60,"score":-0.0084284833,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":61,"score":-0.0781245455,"pred":"There are factual errors in the provided documents. The correct answer is Mark Zuckerberg.","split":"test"}
+{"id":62,"score":-0.2437760234,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":63,"score":-0.0526091307,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":64,"score":-0.002501254,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":65,"score":-0.1617104262,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":66,"score":-0.0514445677,"pred":"Gal Gadot will be playing the role of Diana Prince in Wonder Woman 1984.","split":"test"}
+{"id":67,"score":-0.000084154,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":68,"score":-0.0353573449,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":69,"score":-0.04051774,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":70,"score":-0.0077846539,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":71,"score":-0.1685225815,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":72,"score":-0.0853876099,"pred":"The release date for Super Mario Odyssey on Nintendo Switch is October 27, 2017, as stated in document [4] and confirmed by the release date of 10\/27\/2017 mentioned in document [1].","split":"calib"}
+{"id":73,"score":-0.3091643453,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":74,"score":-0.0373121798,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":75,"score":-0.4437634945,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":76,"score":-0.2702549696,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":77,"score":-0.0414794274,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":78,"score":-0.0491900034,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":79,"score":-0.0198683441,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":80,"score":-0.0216425154,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":81,"score":-0.1778061241,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":82,"score":-0.1141568646,"pred":"There are factual errors in the provided documents.\nThe correct director of \"Pretty Woman\" is Garry Marshall, as mentioned in document [2].","split":"calib"}
+{"id":83,"score":-0.1390384585,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":84,"score":-0.0009250459,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":85,"score":-0.0015945651,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":86,"score":-0.2721728683,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":87,"score":-0.2275666147,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":88,"score":-0.1156651452,"pred":"The Pixel 6 was announced on October 19, 2021.","split":"test"}
+{"id":89,"score":-0.060674455,"pred":"Pixel 5a was announced on August 17, 2021.","split":"test"}
+{"id":90,"score":-0.0212158132,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":91,"score":-0.015630424,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":92,"score":-0.0029105656,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":93,"score":-0.3521633446,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":94,"score":-0.266936779,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":95,"score":-0.0741987452,"pred":"Tim Cook is the CEO of Apple in 2021.","split":"test"}
+{"id":96,"score":-0.0165381581,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
+{"id":97,"score":-0.0354914479,"pred":"Collin Morikawa won the British Open golf tournament in 2020.","split":"test"}
+{"id":98,"score":-0.1597851664,"pred":"I can not answer the question because of insufficient information in documents.","split":"calib"}
+{"id":99,"score":-0.0034900429,"pred":"I can not answer the question because of insufficient information in documents.","split":"test"}
