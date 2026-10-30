@@ -1,0 +1,5 @@
+venv/
+hf_cache/
+RGB/
+*.log
+.ipynb_checkpoints/
