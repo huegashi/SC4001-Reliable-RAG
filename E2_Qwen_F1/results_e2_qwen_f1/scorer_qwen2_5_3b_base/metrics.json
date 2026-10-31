@@ -1,0 +1,49 @@
+{
+  "passage_scorer": "qwen2.5:3b",
+  "answer_generator": "qwen2.5:3B-Instruct",
+  "filter_threshold": 1.3702995011356746e-07,
+  "filter_calibration": {
+    "calibration_positive_doc_f1": 0.8758949880668258,
+    "counts": {
+      "tp": 734,
+      "fp": 132,
+      "fn": 76,
+      "n": 1350
+    }
+  },
+  "abstention_threshold": 4.796591794483425e-07,
+  "calibration_balanced": 0.8851851851851853,
+  "test": {
+    "noise_0.0": {
+      "n": 210,
+      "accuracy": 0.9428571428571428,
+      "rejection_rate": 0.03333333333333333,
+      "wrong_answer": 0.023809523809523808
+    },
+    "noise_0.4": {
+      "n": 210,
+      "accuracy": 0.919047619047619,
+      "rejection_rate": 0.05238095238095238,
+      "wrong_answer": 0.02857142857142857
+    },
+    "noise_0.8": {
+      "n": 210,
+      "accuracy": 0.7333333333333333,
+      "rejection_rate": 0.21904761904761905,
+      "wrong_answer": 0.047619047619047616
+    },
+    "incomplete": {
+      "n": 210,
+      "rejection_rate": 0.9523809523809523
+    },
+    "contradictory": {
+      "n": 70,
+      "accuracy": 0.5,
+      "rejection_rate": 0.34285714285714286,
+      "wrong_answer": 0.15714285714285714
+    },
+    "balanced": 0.0
+  },
+  "n_test_predictions": 910,
+  "context_sha256": "a08ed9edcee0d124b86a0cebee4b818b059cbf517f84a40c4c01685894da9553"
+}

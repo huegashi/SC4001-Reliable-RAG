@@ -1,0 +1,178 @@
+{
+  "protocol": "RGB baseline context construction; exact baseline question-level 30/70 split; Qwen2.5 3B-Instruct via Ollama; same Qwen service generates E0 and E2 answers; thresholds selected on calibration questions only.",
+  "model": "qwen2.5:3B-Instruct",
+  "filter_threshold": 1.3702995011356746e-07,
+  "filter_calibration": {
+    "calibration_positive_doc_f1": 0.8753726893261777,
+    "counts": {
+      "tp": 734,
+      "fp": 133,
+      "fn": 76,
+      "n": 1350
+    }
+  },
+  "abstention_threshold": 2.9470512163347046e-05,
+  "calibration_balanced_score": 0.8796296296296297,
+  "relevance": {
+    "noise_0.0": {
+      "positive_recall": 0.8971428571428571,
+      "passage_precision": 1.0,
+      "kept_fraction": 0.8971428571428571,
+      "n_test": 210
+    },
+    "noise_0.4": {
+      "positive_recall": 0.9063492063492063,
+      "passage_precision": 0.8835714285714287,
+      "kept_fraction": 0.638095238095238,
+      "n_test": 210
+    },
+    "noise_0.8": {
+      "positive_recall": 0.9619047619047619,
+      "passage_precision": 0.6630952380952381,
+      "kept_fraction": 0.3685714285714286,
+      "n_test": 210
+    },
+    "contradictory": {
+      "true_passage_kept": 0.9,
+      "fake_passage_kept": 0.6285714285714286,
+      "both_kept": 0.6285714285714286,
+      "n_test": 70
+    }
+  },
+  "methods": {
+    "E0": {
+      "calibration": {
+        "noise_0.0": {
+          "n": 90,
+          "accuracy": 0.9888888888888889,
+          "rejection_rate": 0.0,
+          "wrong_answer": 0.011111111111111112
+        },
+        "noise_0.4": {
+          "n": 90,
+          "accuracy": 0.9666666666666667,
+          "rejection_rate": 0.022222222222222223,
+          "wrong_answer": 0.011111111111111112
+        },
+        "noise_0.8": {
+          "n": 90,
+          "accuracy": 0.7666666666666667,
+          "rejection_rate": 0.17777777777777778,
+          "wrong_answer": 0.05555555555555555
+        },
+        "incomplete": {
+          "n": 90,
+          "rejection_rate": 0.8555555555555555
+        },
+        "contradictory": {
+          "n": 30,
+          "accuracy": 0.4666666666666667,
+          "rejection_rate": 0.36666666666666664,
+          "wrong_answer": 0.16666666666666666
+        },
+        "balanced": 0.8814814814814815
+      },
+      "test": {
+        "noise_0.0": {
+          "n": 210,
+          "accuracy": 0.9380952380952381,
+          "rejection_rate": 0.0380952380952381,
+          "wrong_answer": 0.023809523809523808
+        },
+        "noise_0.4": {
+          "n": 210,
+          "accuracy": 0.9428571428571428,
+          "rejection_rate": 0.0380952380952381,
+          "wrong_answer": 0.01904761904761905
+        },
+        "noise_0.8": {
+          "n": 210,
+          "accuracy": 0.6952380952380952,
+          "rejection_rate": 0.24285714285714285,
+          "wrong_answer": 0.06190476190476191
+        },
+        "incomplete": {
+          "n": 210,
+          "rejection_rate": 0.8857142857142857
+        },
+        "contradictory": {
+          "n": 70,
+          "accuracy": 0.5571428571428572,
+          "rejection_rate": 0.2857142857142857,
+          "wrong_answer": 0.15714285714285714
+        },
+        "balanced": 0.8722222222222222
+      }
+    },
+    "E2": {
+      "calibration": {
+        "noise_0.0": {
+          "n": 90,
+          "accuracy": 0.9666666666666667,
+          "rejection_rate": 0.022222222222222223,
+          "wrong_answer": 0.011111111111111112
+        },
+        "noise_0.4": {
+          "n": 90,
+          "accuracy": 0.9333333333333333,
+          "rejection_rate": 0.05555555555555555,
+          "wrong_answer": 0.011111111111111112
+        },
+        "noise_0.8": {
+          "n": 90,
+          "accuracy": 0.7333333333333333,
+          "rejection_rate": 0.2222222222222222,
+          "wrong_answer": 0.044444444444444446
+        },
+        "incomplete": {
+          "n": 90,
+          "rejection_rate": 0.9222222222222223
+        },
+        "contradictory": {
+          "n": 30,
+          "accuracy": 0.3333333333333333,
+          "rejection_rate": 0.5333333333333333,
+          "wrong_answer": 0.13333333333333333
+        },
+        "balanced": 0.9
+      },
+      "test": {
+        "noise_0.0": {
+          "n": 210,
+          "accuracy": 0.9476190476190476,
+          "rejection_rate": 0.03333333333333333,
+          "wrong_answer": 0.01904761904761905
+        },
+        "noise_0.4": {
+          "n": 210,
+          "accuracy": 0.919047619047619,
+          "rejection_rate": 0.06190476190476191,
+          "wrong_answer": 0.01904761904761905
+        },
+        "noise_0.8": {
+          "n": 210,
+          "accuracy": 0.6761904761904762,
+          "rejection_rate": 0.28095238095238095,
+          "wrong_answer": 0.04285714285714286
+        },
+        "incomplete": {
+          "n": 210,
+          "rejection_rate": 0.9666666666666667
+        },
+        "contradictory": {
+          "n": 70,
+          "accuracy": 0.45714285714285713,
+          "rejection_rate": 0.4142857142857143,
+          "wrong_answer": 0.12857142857142856
+        },
+        "balanced": 0.9071428571428571
+      }
+    }
+  },
+  "E2_settings": {
+    "filter_rule": "keep every passage with p_yes >= calibrated threshold; keep the highest-scoring passage if none pass",
+    "abstention_rule": "abstain if max original-passage p_yes is below calibrated threshold",
+    "filter_threshold": 1.3702995011356746e-07,
+    "abstention_threshold": 2.9470512163347046e-05
+  }
+}

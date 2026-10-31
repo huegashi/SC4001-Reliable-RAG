@@ -1,0 +1,29 @@
+{
+  "sha256_canonical_jsonl": "a08ed9edcee0d124b86a0cebee4b818b059cbf517f84a40c4c01685894da9553",
+  "seed": 42,
+  "calibration_fraction": 0.3,
+  "passages_per_question": 5,
+  "model": "qwen2.5:3B-Instruct",
+  "counts": {
+    "noise_0.0": {
+      "calibration": 90,
+      "test": 210
+    },
+    "noise_0.4": {
+      "calibration": 90,
+      "test": 210
+    },
+    "noise_0.8": {
+      "calibration": 90,
+      "test": 210
+    },
+    "incomplete": {
+      "calibration": 90,
+      "test": 210
+    },
+    "contradictory": {
+      "calibration": 30,
+      "test": 70
+    }
+  }
+}

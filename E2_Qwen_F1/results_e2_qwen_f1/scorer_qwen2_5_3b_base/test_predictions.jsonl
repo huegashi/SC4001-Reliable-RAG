@@ -1,0 +1,910 @@
+{"condition": "noise_0.0", "id": 0, "pred": "The premiere of 'Carole King & James Taylor: Just Call Out My Name' is on Sunday, Jan. 2 at 9:00PM ET/PT on CNN."}
+{"condition": "noise_0.0", "id": 1, "pred": "The genre of the drama \"Good Sam\" is medical procedural and family drama."}
+{"condition": "noise_0.0", "id": 3, "pred": "There are factual errors in the provided documents.\nJason Semore held the position of Defensive Coordinator at Valdosta State before returning to Georgia Tech."}
+{"condition": "noise_0.0", "id": 5, "pred": "EVO Entertainment Group acquired ShowBiz Cinemas."}
+{"condition": "noise_0.0", "id": 6, "pred": "The Super Bowl is held at SoFi Stadium in Inglewood, California in 2022."}
+{"condition": "noise_0.0", "id": 7, "pred": "Truth Social will launch on iOS on February 21st."}
+{"condition": "noise_0.0", "id": 8, "pred": "The Power of the Dog won Best Motion Picture – Drama at the 79th Golden Globe Awards."}
+{"condition": "noise_0.0", "id": 9, "pred": "$100 per seat."}
+{"condition": "noise_0.0", "id": 10, "pred": "The 2022 Olympic Winter Games end on Sunday."}
+{"condition": "noise_0.0", "id": 12, "pred": "Microsoft is acquiring Activision Blizzard for $68.7 billion."}
+{"condition": "noise_0.0", "id": 13, "pred": "The price for a 30-second spot during the Super Bowl 2022 was $6.5 million."}
+{"condition": "noise_0.0", "id": 14, "pred": "The Seattle Sports Star of the Year Awards Show was hosted on May 26, 2022."}
+{"condition": "noise_0.0", "id": 20, "pred": "The Super Bowl 2022 date is Sunday, Feb. 13, 2022."}
+{"condition": "noise_0.0", "id": 21, "pred": "K. Barry Sharpless won the 2022 Nobel Prize for Chemistry."}
+{"condition": "noise_0.0", "id": 23, "pred": "Erin Jackson won the women's 500m speed skating at the 2022 Winter Olympics."}
+{"condition": "noise_0.0", "id": 24, "pred": "I can answer the question based on the information provided in the documents.\n\nLost Ark's PC release date on Steam was initially set for February 11, 2022. However, it was later revealed that Founders Pack owners would have access to the game starting on February 8, 202"}
+{"condition": "noise_0.0", "id": 25, "pred": "Jessie Diggins won a bronze medal in the women's individual sprint and a silver medal in the women's 30 kilometer freestyle race in the Beijing 2022 Olympic Games."}
+{"condition": "noise_0.0", "id": 27, "pred": "Russia invaded Ukraine on February 24, 2022."}
+{"condition": "noise_0.0", "id": 28, "pred": "Elden Ring was being released on February 25, 2022."}
+{"condition": "noise_0.0", "id": 29, "pred": "Iga Swiatek defeated Anett Kontaveit to win the Qatar Open 2022."}
+{"condition": "noise_0.0", "id": 30, "pred": "Norway won the most medals at the 2022 Winter Olympics."}
+{"condition": "noise_0.0", "id": 31, "pred": "Chris Stapleton won the Male Vocalist of the Year at the 2022 CMA."}
+{"condition": "noise_0.0", "id": 32, "pred": "The Virginia Tech Hokies won the ACC Tournament in 2022."}
+{"condition": "noise_0.0", "id": 33, "pred": "The iPhone 14 has the A15 Bionic chip."}
+{"condition": "noise_0.0", "id": 34, "pred": "Google I/O 2022 is scheduled to take place on May 11 and 12, 2022."}
+{"condition": "noise_0.0", "id": 36, "pred": "The name of China's rover on Mars is Zhurong."}
+{"condition": "noise_0.0", "id": 37, "pred": "Shad Gaspard is being honored with the 2022 Warrior Award."}
+{"condition": "noise_0.0", "id": 38, "pred": "2.45 lbs"}
+{"condition": "noise_0.0", "id": 39, "pred": "I can provide the answer based on the information given in the documents. The stars of The Lost City are Sandra Bullock, Channing Tatum, Daniel Radcliffe, Da'Vine Joy Randolph, Brad Pitt, and Oscar Nunez."}
+{"condition": "noise_0.0", "id": 41, "pred": "Apple M2 chip was unveiled at Apple's WWDC 2022 keynote on June 6, 2022."}
+{"condition": "noise_0.0", "id": 43, "pred": "The 94th Academy Awards will be held on Sunday, March 27, 2022."}
+{"condition": "noise_0.0", "id": 44, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 46, "pred": "The final of the 2022 FIFA World Cup is set for Dec. 18, 2022."}
+{"condition": "noise_0.0", "id": 47, "pred": "Tesla delivered 310,048 vehicles in the first quarter of 2022."}
+{"condition": "noise_0.0", "id": 48, "pred": "Elon Musk acquired Twitter."}
+{"condition": "noise_0.0", "id": 49, "pred": "Elon Musk bought Twitter for $44 billion."}
+{"condition": "noise_0.0", "id": 50, "pred": "Scottie Scheffler won the 2022 Masters Tournament."}
+{"condition": "noise_0.0", "id": 51, "pred": "Ashleigh Barty won the women's singles Australian Open 2022."}
+{"condition": "noise_0.0", "id": 52, "pred": "Aryna Sabalenka won the women's singles Australian Open 2023."}
+{"condition": "noise_0.0", "id": 53, "pred": "Rafael Nadal won the men's singles Australian Open 2022."}
+{"condition": "noise_0.0", "id": 54, "pred": "Novak Djokovic won the men's singles Australian Open 2023."}
+{"condition": "noise_0.0", "id": 55, "pred": "Iga Swiatek won the women's singles French Open 2022."}
+{"condition": "noise_0.0", "id": 56, "pred": "Iga Swiatek won the women's singles French Open 2023."}
+{"condition": "noise_0.0", "id": 57, "pred": "Karolina Muchova is the runner-up in the women's singles at the 2023 French Open."}
+{"condition": "noise_0.0", "id": 58, "pred": "Rafael Nadal won the men's singles French Open 2022."}
+{"condition": "noise_0.0", "id": 59, "pred": "Novak Djokovic won the men's singles French Open 2023."}
+{"condition": "noise_0.0", "id": 60, "pred": "Elena Rybakina"}
+{"condition": "noise_0.0", "id": 62, "pred": "Novak Djokovic won the men's singles Wimbledon 2022."}
+{"condition": "noise_0.0", "id": 63, "pred": "Carlos Alcaraz won the men's singles Wimbledon 2023."}
+{"condition": "noise_0.0", "id": 64, "pred": "Swiatek has won 8 titles in the 2022 season."}
+{"condition": "noise_0.0", "id": 65, "pred": "Iga Swiatek"}
+{"condition": "noise_0.0", "id": 67, "pred": "There are factual errors in the provided documents.\nBrent Pry"}
+{"condition": "noise_0.0", "id": 69, "pred": "The 148th Kentucky Derby took place on Saturday, May 7, 2022."}
+{"condition": "noise_0.0", "id": 70, "pred": "Tesla's revenue in Q1 2022 was $18.76 billion."}
+{"condition": "noise_0.0", "id": 71, "pred": "Splatoon 3 will be released on September 9, 2022."}
+{"condition": "noise_0.0", "id": 72, "pred": "The Najafi Companies acquired STX Entertainment."}
+{"condition": "noise_0.0", "id": 73, "pred": "Orrin G. Hatch passed away on April 23, 2022."}
+{"condition": "noise_0.0", "id": 76, "pred": "The main camera on the iPhone 14 Pro has a 48-megapixel sensor."}
+{"condition": "noise_0.0", "id": 77, "pred": "I can can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 78, "pred": "The 2022 Met Gala will take place at the Metropolitan Museum of Art in New York City."}
+{"condition": "noise_0.0", "id": 81, "pred": "The prize money for the Squid Game-inspired reality competition is $4.56 million."}
+{"condition": "noise_0.0", "id": 82, "pred": "Overwatch 2 was released on October 4, 2022."}
+{"condition": "noise_0.0", "id": 83, "pred": "Jonas Vingegaard won the 2022 Tour de France."}
+{"condition": "noise_0.0", "id": 84, "pred": "Apple's revenue in Q3 2022 was $83.0 billion."}
+{"condition": "noise_0.0", "id": 85, "pred": "Alex de Minaur won the 2022 Atlanta Open."}
+{"condition": "noise_0.0", "id": 86, "pred": "The revenue of AWS in Q2 2022 was $19.7 billion."}
+{"condition": "noise_0.0", "id": 87, "pred": "Xenoblade Chronicles 3 was released on July 29, 2022."}
+{"condition": "noise_0.0", "id": 89, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 91, "pred": "BlenderBot 3 was released on August 5, 2022."}
+{"condition": "noise_0.0", "id": 95, "pred": "Amazon agreed to pay $61 per share to acquire iRobot."}
+{"condition": "noise_0.0", "id": 96, "pred": "The location of the Major League Baseball Field of Dreams Game 2022 is Dyersville, Iowa."}
+{"condition": "noise_0.0", "id": 97, "pred": "Microsoft released Windows 11 22H2 on September 20, 2022."}
+{"condition": "noise_0.0", "id": 98, "pred": "AMD unveiled Ryzen 7000 processors on August 29th."}
+{"condition": "noise_0.0", "id": 99, "pred": "Konnor McClain won the U.S. all-around title at the U.S. Gymnastics Nationals 2022."}
+{"condition": "noise_0.0", "id": 101, "pred": "The premiere date of House of the Dragon is August 21, 2022."}
+{"condition": "noise_0.0", "id": 102, "pred": "The release date for Sony's PlayStation VR2 headset is February 22, 2023."}
+{"condition": "noise_0.0", "id": 103, "pred": "The new venture launched by Tiger Woods and Rory McIlroy is TMRW Sports."}
+{"condition": "noise_0.0", "id": 104, "pred": "ColdQuanta recently acquired Super.tech."}
+{"condition": "noise_0.0", "id": 105, "pred": "Caleb Williams is the Heisman Trophy winner in 2022."}
+{"condition": "noise_0.0", "id": 106, "pred": "The Amazing Race Season 34 premiered on Wednesday, September 21, 2022, on CBS."}
+{"condition": "noise_0.0", "id": 107, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 110, "pred": "New Amsterdam Season 5 premiered on Tuesday, September 20, 2022."}
+{"condition": "noise_0.0", "id": 115, "pred": "I can provide the following short answer based on the information available in the documents:\n\nTencent and Sony acquired a stake in FromSoftware."}
+{"condition": "noise_0.0", "id": 117, "pred": "The unemployment rate in August 2022 in U.S. was 3.7%."}
+{"condition": "noise_0.0", "id": 119, "pred": "There are factual errors in the provided documents. The documents contain conflicting information about the number of injured people. Document [1] states that eight people were hospitalized with injuries ranging from severe head trauma to minor physical complaints. However, Document [2] and Document [4] state that eight people were injured, some with severe"}
+{"condition": "noise_0.0", "id": 121, "pred": "There are factual errors in the provided documents.\nTanya Pardazi died tragically in a skydiving accident when she released a quickly rotating main parachute at a low altitude without the time or altitude required for the reserve parachute to inflate."}
+{"condition": "noise_0.0", "id": 122, "pred": "Mickey Joseph was named interim coach for Nebraska's 2022 season."}
+{"condition": "noise_0.0", "id": 123, "pred": "Jackie Evancho's album Carousel of Time was released on September 9, 2022."}
+{"condition": "noise_0.0", "id": 124, "pred": "The companies part of MATANA are Microsoft Corporation (NASDAQ: MSFT), Apple Inc (NASDAQ: AAPL), Tesla Inc (NASDAQ: TSLA), Alphabet Inc (NASDAQ: GOOGL), Nvidia Corp (NASDAQ: NVDA), and Amazon.com Inc (NASDAQ: AMZN)."}
+{"condition": "noise_0.0", "id": 125, "pred": "There are factual errors in the provided documents. The correct answer is Arcane."}
+{"condition": "noise_0.0", "id": 126, "pred": "The expanded College Football Playoff will include 12 teams."}
+{"condition": "noise_0.0", "id": 127, "pred": "I can answer this question based on the information provided in the documents.\n\nIn the opening match of the 2022 World Cup, Qatar played against Ecuador."}
+{"condition": "noise_0.0", "id": 128, "pred": "Leonard Francis escaped from his home in the Torrey Highlands community of San Diego."}
+{"condition": "noise_0.0", "id": 129, "pred": "The 2022 NFL Football Season begins on September 8, 2022, as stated in the documents."}
+{"condition": "noise_0.0", "id": 130, "pred": "There are factual errors in the provided documents. Meta Connect took place on October 11 this year."}
+{"condition": "noise_0.0", "id": 131, "pred": "The fine that Meta is facing for failing to safeguard children's information on Instagram is 405 million euros or just over $400 million."}
+{"condition": "noise_0.0", "id": 132, "pred": "Gotham Knights was released on October 21, 2022."}
+{"condition": "noise_0.0", "id": 133, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are factual errors in the provided documents.\nFormer CNN anchor Bernard Shaw died from pneumonia unrelated to COVID-19 on Wednesday, his family said in a statement to the network."}
+{"condition": "noise_0.0", "id": 136, "pred": "There are factual errors in the provided documents. The correct answer is that Carlos Alcaraz beat Frances Tiafoe in the U.S. Open 2022 Men's Semifinals."}
+{"condition": "noise_0.0", "id": 139, "pred": "The iPhone 14 Plus release date is October 7, 2022."}
+{"condition": "noise_0.0", "id": 141, "pred": "The new product at Chick-fil-A in fall 2022 is the Autumn Spice Milkshake and the returning Grilled Spicy Deluxe Sandwich."}
+{"condition": "noise_0.0", "id": 143, "pred": "There are factual errors in the provided documents. The correct answer is that Carlos Alcaraz is set to become the youngest year-end No. 1 in the history of men's tennis in 2022."}
+{"condition": "noise_0.0", "id": 144, "pred": "Titus Welliver was playing Lex Luthor in Titans."}
+{"condition": "noise_0.0", "id": 147, "pred": "Google acquired Mandiant for $5.4 billion."}
+{"condition": "noise_0.0", "id": 148, "pred": "The inflation rate in the U.S. in August 2022 was 8.3%."}
+{"condition": "noise_0.0", "id": 152, "pred": "Hocus Pocus 2 was released on Disney+ on September 30."}
+{"condition": "noise_0.0", "id": 153, "pred": "There are factual errors in the provided documents.\nACL 2023 is taking place from July 9th to July 14th, 2023."}
+{"condition": "noise_0.0", "id": 156, "pred": "EMNLP 2023 is taking place in Singapore."}
+{"condition": "noise_0.0", "id": 157, "pred": "The starting price for Virginia Tech 2023 football season tickets is $350."}
+{"condition": "noise_0.0", "id": 158, "pred": "The date of the Wine OFF the Fox benefit concert is Saturday, October 22."}
+{"condition": "noise_0.0", "id": 159, "pred": "The funeral of Queen Elizabeth II took place on September 19, 2022."}
+{"condition": "noise_0.0", "id": 161, "pred": "The top two contestants in the America's Got Talent Season 17 finale were Mayyas and Kristy Sellars."}
+{"condition": "noise_0.0", "id": 163, "pred": "I can answer the question based on the information provided in the documents. Three people died in the mid-air collision in Boulder County."}
+{"condition": "noise_0.0", "id": 164, "pred": "Giorgia Meloni is Italy's first female prime minister."}
+{"condition": "noise_0.0", "id": 166, "pred": "The Las Vegas Aces won the WNBA Finals 2022."}
+{"condition": "noise_0.0", "id": 167, "pred": "The Golden Globe Awards 2023 took place on Tuesday, January 10, 2023."}
+{"condition": "noise_0.0", "id": 168, "pred": "The release date of the Pixel Watch is October 13, 2022."}
+{"condition": "noise_0.0", "id": 169, "pred": "Robin Roberts was honored with a Lifetime Professional Achievement Award at the Seton Hall's Center for Sports Media Gala."}
+{"condition": "noise_0.0", "id": 170, "pred": "Rihanna performed at the Super Bowl LVII Halftime Show."}
+{"condition": "noise_0.0", "id": 172, "pred": "There are factual errors in the provided documents. Tetsuya Yamagami killed Shinzo Abe."}
+{"condition": "noise_0.0", "id": 173, "pred": "The state funeral of Shinzo Abe was held on 27 September 2022."}
+{"condition": "noise_0.0", "id": 174, "pred": "The title of House of the Dragon's sixth episode is \"The Princess and the Queen\"."}
+{"condition": "noise_0.0", "id": 175, "pred": "Times Square Grand Slam has been acquired by EVO Entertainment Group."}
+{"condition": "noise_0.0", "id": 176, "pred": "The premiere date of Derry Girls Season 3 is October 7."}
+{"condition": "noise_0.0", "id": 177, "pred": "Svante Pääbo was awarded the 2022 Nobel Prize for Physiology or Medicine."}
+{"condition": "noise_0.0", "id": 178, "pred": "I can provide a short answer based on the information given in the documents.\n\nThe 2022 Nobel Prize in Literature was awarded to French author Annie Ernaux."}
+{"condition": "noise_0.0", "id": 179, "pred": "Rob Wade is the new CEO of Fox Entertainment."}
+{"condition": "noise_0.0", "id": 180, "pred": "Max Verstappen won the Japanese Grand Prix 2022."}
+{"condition": "noise_0.0", "id": 181, "pred": "Sarah Shahi played Adrianna Tomaz in Black Adam."}
+{"condition": "noise_0.0", "id": 184, "pred": "The release date of Sweetwater is Friday, April 14, 2023."}
+{"condition": "noise_0.0", "id": 185, "pred": "The Google Pixel Watch started selling on October 13, 2022."}
+{"condition": "noise_0.0", "id": 187, "pred": "The president of the Prospect Park Alliance is Morgan Monaco."}
+{"condition": "noise_0.0", "id": 188, "pred": "I can provide a short answer based on the information given in the documents.\n\nRiot Games acquired Wargaming Sydney."}
+{"condition": "noise_0.0", "id": 189, "pred": "The new CEO of Yahoo is Jim Lanzone."}
+{"condition": "noise_0.0", "id": 190, "pred": "There are factual errors in the provided documents.\nNetflix added 2.41 million global subscribers in the third quarter of 2022."}
+{"condition": "noise_0.0", "id": 191, "pred": "Chicago PD | Season 10 Episode 4 | Sky.com Donde Vives"}
+{"condition": "noise_0.0", "id": 192, "pred": "The YouTube Premium family plan now costs $22.99 per month."}
+{"condition": "noise_0.0", "id": 193, "pred": "The release date of God of War Ragnarok is November 9, 2022."}
+{"condition": "noise_0.0", "id": 194, "pred": "Ethan Hawke voices Batman in Batwheels."}
+{"condition": "noise_0.0", "id": 195, "pred": "Rishi Sunak is the new prime minister of the United Kingdom."}
+{"condition": "noise_0.0", "id": 196, "pred": "Rishi Sunak became Prime Minister of the UK on 25 October 2022."}
+{"condition": "noise_0.0", "id": 197, "pred": "The Netflix Basic with Ads subscription costs $6.99 per month."}
+{"condition": "noise_0.0", "id": 201, "pred": "There are factual errors in the provided documents. I can answer the question based on the information available.\n\nThe Republican Party controls the House of Representatives after the 2022 midterm elections. The documents indicate that Republicans gained enough seats to secure a narrow majority in the House of Representatives, with Republican Minority Leader Kevin McCarthy likely"}
+{"condition": "noise_0.0", "id": 203, "pred": "John R. Leonetti"}
+{"condition": "noise_0.0", "id": 206, "pred": "France is in Group D of the 2022 FIFA World Cup."}
+{"condition": "noise_0.0", "id": 207, "pred": "U.S. is in Group B in World Cup 2022."}
+{"condition": "noise_0.0", "id": 208, "pred": "There are factual errors in the provided documents.\nArgentina is in Group C of the 2022 FIFA World Cup."}
+{"condition": "noise_0.0", "id": 209, "pred": "The title of the new season of \"Criminal Minds\" is Criminal Minds: Evolution."}
+{"condition": "noise_0.0", "id": 211, "pred": "Kat Callaghan is the TikTok text-to-speech voice."}
+{"condition": "noise_0.0", "id": 212, "pred": "Merriam-Webster's 2022 Word of the Year is \"gaslighting\"."}
+{"condition": "noise_0.0", "id": 213, "pred": "SM Entertainment is setting up its Southeast Asian headquarters in Singapore."}
+{"condition": "noise_0.0", "id": 214, "pred": "The unemployment rate in November 2022 was 3.7%."}
+{"condition": "noise_0.0", "id": 215, "pred": "The USA played the Netherlands in the Round of 16 at the 2022 FIFA World Cup."}
+{"condition": "noise_0.0", "id": 216, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 217, "pred": "Brian Kemp won the election in Georgia."}
+{"condition": "noise_0.0", "id": 218, "pred": "Margot Robbie is starring as Barbie in the movie \"Barbie\"."}
+{"condition": "noise_0.0", "id": 219, "pred": "Tyler Adams is the captain of the USA soccer team in the FIFA Men's World Cup 2022."}
+{"condition": "noise_0.0", "id": 221, "pred": "President Joe Biden will put $36 billion into the union pension plan."}
+{"condition": "noise_0.0", "id": 222, "pred": "Caleb Williams won the Maxwell Award 2022 in college football."}
+{"condition": "noise_0.0", "id": 223, "pred": "Morocco is Africa's first World Cup semi-finalists."}
+{"condition": "noise_0.0", "id": 225, "pred": "The championship game of the Patriot League Men’s Lacrosse Championship 2023 is on Sunday, May 7, at noon on Nickerson Field."}
+{"condition": "noise_0.0", "id": 227, "pred": "The new president of the NCAA is Charlie Baker."}
+{"condition": "noise_0.0", "id": 228, "pred": "There are factual errors in the provided documents. The CEO of Twitter is Linda Yaccarino."}
+{"condition": "noise_0.0", "id": 229, "pred": "Daniel Alegre is the CEO of Yuga Labs."}
+{"condition": "noise_0.0", "id": 231, "pred": "The Final Fantasy Pixel Remaster Series was released on Nintendo Switch on April 19, 2023."}
+{"condition": "noise_0.0", "id": 232, "pred": "'Guillermo del Toro's Pinocchio' won the Oscar for Best Animated Film in 2023."}
+{"condition": "noise_0.0", "id": 234, "pred": "Georgia won the Peach Bowl 2022."}
+{"condition": "noise_0.0", "id": 235, "pred": "No. 16 Michigan Tech won the 2023 Desert Hockey Classic."}
+{"condition": "noise_0.0", "id": 236, "pred": "The price of Microsoft 365 Basic per month is $1.99."}
+{"condition": "noise_0.0", "id": 237, "pred": "Calvin Edgar Fox passed away on January 18, 2023."}
+{"condition": "noise_0.0", "id": 239, "pred": "Scream VI releases on March 10, 2023."}
+{"condition": "noise_0.0", "id": 240, "pred": "The annual GDP growth rate of the U.S. economy in 2022 was 2.1%.\n\nThere are no conflicting or incorrect information provided in the documents regarding the annual GDP growth rate for 2022."}
+{"condition": "noise_0.0", "id": 241, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 242, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.0", "id": 243, "pred": "The congressional hearing for TikTok CEO Shou Zi Chew is on March 23, 2023."}
+{"condition": "noise_0.0", "id": 246, "pred": "The voucher amount per student in the Students First Act is $7,598."}
+{"condition": "noise_0.0", "id": 248, "pred": "Google's new AI chatbot is called Bard."}
+{"condition": "noise_0.0", "id": 249, "pred": "There are factual errors in the provided documents. Midjourney was founded by David Holz."}
+{"condition": "noise_0.0", "id": 251, "pred": "The new CEO of Pinterest is Bill Ready."}
+{"condition": "noise_0.0", "id": 254, "pred": "I can provide a short answer based on the information given in the documents.\n\nAmazon acquired iRobot."}
+{"condition": "noise_0.0", "id": 258, "pred": "Everything Everywhere All at Once won Best Picture at the 95th Academy Awards Ceremony."}
+{"condition": "noise_0.0", "id": 259, "pred": "There are factual errors in the provided documents. The correct answer is Daniel Kwan and Daniel Scheinert."}
+{"condition": "noise_0.0", "id": 261, "pred": "Michelle Yeoh won Best Actress at the 95th Academy Awards Ceremony for her role in \"Everything Everywhere All at Once.\""}
+{"condition": "noise_0.0", "id": 262, "pred": "All Quiet on the Western Front won Best International Feature Film at the 95th Academy Awards Ceremony."}
+{"condition": "noise_0.0", "id": 264, "pred": "Gina Miles won The Voice Season 23."}
+{"condition": "noise_0.0", "id": 267, "pred": "Beau Ferrari is the Chairman of NBCUniversal Telemundo Enterprises."}
+{"condition": "noise_0.0", "id": 268, "pred": "The name of Elon Musk's new AI company is X.AI."}
+{"condition": "noise_0.0", "id": 269, "pred": "There are factual errors in the provided documents. The correct answer is that the Maroon squad won the Virginia Tech spring game 2023 with a score of 34-0."}
+{"condition": "noise_0.0", "id": 270, "pred": "Rebecka Peterson was named the 2023 National Teacher of the Year."}
+{"condition": "noise_0.0", "id": 271, "pred": "The 2023 Douglas County Fair & Rodeo starts on July 28, 2023."}
+{"condition": "noise_0.0", "id": 274, "pred": "Sundar Pichai's total compensation in 2022 was $226 million."}
+{"condition": "noise_0.0", "id": 275, "pred": "Google I/O 2023 will take place on Wednesday, May 10."}
+{"condition": "noise_0.0", "id": 277, "pred": "The name of the AI dating tool Coyne Lloyd used is Rizz."}
+{"condition": "noise_0.0", "id": 278, "pred": "The new sporting director of U.S. Soccer is Matt Crocker."}
+{"condition": "noise_0.0", "id": 279, "pred": "Oklahoma State"}
+{"condition": "noise_0.0", "id": 280, "pred": "The main character in Jedi: Survivor is Cal Kestis."}
+{"condition": "noise_0.0", "id": 281, "pred": "Nida Manzoor is the director of \"Polite Society.\""}
+{"condition": "noise_0.0", "id": 282, "pred": "Grand Crew Season 2 ended on April 28, 2023."}
+{"condition": "noise_0.0", "id": 283, "pred": "Roy Wood Jr. hosted the 2023 White House Correspondents' Dinner."}
+{"condition": "noise_0.0", "id": 284, "pred": "The Chinese city of Chengdu will host The World Games 2025."}
+{"condition": "noise_0.0", "id": 285, "pred": "The new CEO of TCW Group is Katie Koch."}
+{"condition": "noise_0.0", "id": 286, "pred": "Pixel Fold was announced on May 10, 2023."}
+{"condition": "noise_0.0", "id": 287, "pred": "The name of Google's foldable smartphone is Pixel Fold."}
+{"condition": "noise_0.0", "id": 288, "pred": "253,000 jobs were created in April 2023, as stated in the first document."}
+{"condition": "noise_0.0", "id": 289, "pred": "There are factual errors in the provided documents. The end date for the federal PHE for COVID-19 is May 11, 2023."}
+{"condition": "noise_0.0", "id": 292, "pred": "I can answer the question based on the information provided in the documents.\n\nThe ChatGPT app for iOS was launched on May 18, 2023."}
+{"condition": "noise_0.0", "id": 294, "pred": "The price of the Apple Vision Pro headset is $3,499."}
+{"condition": "noise_0.0", "id": 296, "pred": "Kate Ryder is the CEO of Maven."}
+{"condition": "noise_0.0", "id": 297, "pred": "Wyndham Clark won the U.S. Open golf tournament 2023."}
+{"condition": "noise_0.0", "id": 299, "pred": "Cooper Kupp was the MVP of Super Bowl 2022."}
+{"condition": "noise_0.4", "id": 0, "pred": "There are factual errors in the provided documents. The premiere of 'Carole King & James Taylor: Just Call Out My Name' is January 2, 2022."}
+{"condition": "noise_0.4", "id": 1, "pred": "The genre of the drama \"Good Sam\" is medical drama and family drama."}
+{"condition": "noise_0.4", "id": 3, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 5, "pred": "EVO Entertainment Group acquired ShowBiz Cinemas."}
+{"condition": "noise_0.4", "id": 6, "pred": "The Super Bowl is held at SoFi Stadium in Los Angeles, California in 2022."}
+{"condition": "noise_0.4", "id": 7, "pred": "Truth Social will launch on iOS on February 21st."}
+{"condition": "noise_0.4", "id": 8, "pred": "The Power of the Dog won Best Motion Picture – Drama at the 79th Golden Globe Awards."}
+{"condition": "noise_0.4", "id": 9, "pred": "$100"}
+{"condition": "noise_0.4", "id": 10, "pred": "The 2022 Olympic Winter Games end on February 20, 2022."}
+{"condition": "noise_0.4", "id": 12, "pred": "Microsoft is acquiring Activision Blizzard for $95.00 per share, in an all-cash transaction valued at $68.7 billion, inclusive of Activision Blizzard's net cash."}
+{"condition": "noise_0.4", "id": 13, "pred": "The price for a 30-second spot during the Super Bowl 2022 was $6.5 million."}
+{"condition": "noise_0.4", "id": 14, "pred": "The Seattle Sports Star of the Year Awards Show was hosted on May 26, 2022."}
+{"condition": "noise_0.4", "id": 20, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 21, "pred": "K. Barry Sharpless won the 2022 Nobel Prize in Chemistry."}
+{"condition": "noise_0.4", "id": 23, "pred": "Erin Jackson won the women's 500m speed skating at the 2022 Winter Olympics."}
+{"condition": "noise_0.4", "id": 24, "pred": "Lost Ark game release on Steam was on February 11th."}
+{"condition": "noise_0.4", "id": 25, "pred": "Jessie Diggins won a bronze medal in the individual sprint and a silver medal in the 30-kilometer freestyle race in the Beijing 2022 Olympic Games."}
+{"condition": "noise_0.4", "id": 27, "pred": "Russia invaded Ukraine on 24 February 2022."}
+{"condition": "noise_0.4", "id": 28, "pred": "Elden Ring was released on February 25, 2022."}
+{"condition": "noise_0.4", "id": 29, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 30, "pred": "Norway won the most medals at the 2022 Winter Olympics."}
+{"condition": "noise_0.4", "id": 31, "pred": "Chris Stapleton won the Male Vocalist of the Year at the 2022 CMA."}
+{"condition": "noise_0.4", "id": 32, "pred": "The Virginia Tech Hokies won the ACC Tournament in 2022."}
+{"condition": "noise_0.4", "id": 33, "pred": "The iPhone 14 has the A15 Bionic chip."}
+{"condition": "noise_0.4", "id": 34, "pred": "Google I/O 2022 will take place on May 11 and May 12."}
+{"condition": "noise_0.4", "id": 36, "pred": "The name of China's rover on Mars is Zhurong."}
+{"condition": "noise_0.4", "id": 37, "pred": "Shad Gaspard is being honored with the 2022 Warrior Award."}
+{"condition": "noise_0.4", "id": 38, "pred": "The weight of the Surface Laptop SE is 2.45 pounds."}
+{"condition": "noise_0.4", "id": 39, "pred": "I can provide the answer based on the information given in the documents. The stars of The Lost City are Sandra Bullock, Channing Tatum, and Daniel Radcliffe."}
+{"condition": "noise_0.4", "id": 41, "pred": "Apple M2 chip was announced on June 6, 2022."}
+{"condition": "noise_0.4", "id": 43, "pred": "The 94th Academy Awards will be held on Sunday, March 27, 2022."}
+{"condition": "noise_0.4", "id": 44, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 46, "pred": "The final of the 2022 FIFA World Cup was played on 18 December 2022."}
+{"condition": "noise_0.4", "id": 47, "pred": "Tesla delivered 310,048 vehicles in the first quarter of 2022."}
+{"condition": "noise_0.4", "id": 48, "pred": "Elon Musk acquired Twitter."}
+{"condition": "noise_0.4", "id": 49, "pred": "I can answer the question based on the information provided in the documents. Elon Musk bought Twitter at an offer price of $54.20 per share, with a total cost of roughly $44 billion."}
+{"condition": "noise_0.4", "id": 50, "pred": "Scottie Scheffler won the 2022 Masters Tournament."}
+{"condition": "noise_0.4", "id": 51, "pred": "Ashleigh Barty won the women's singles Australian Open 2022."}
+{"condition": "noise_0.4", "id": 52, "pred": "Aryna Sabalenka won the women's singles Australian Open 2023."}
+{"condition": "noise_0.4", "id": 53, "pred": "Rafael Nadal won the men's singles Australian Open 2022."}
+{"condition": "noise_0.4", "id": 54, "pred": "Novak Djokovic won the men's singles Australian Open 2023."}
+{"condition": "noise_0.4", "id": 55, "pred": "Iga Swiatek won the women's singles French Open 2022."}
+{"condition": "noise_0.4", "id": 56, "pred": "Iga Swiatek won the women's singles French Open 2023."}
+{"condition": "noise_0.4", "id": 57, "pred": "Karolina Muchova is the runner-up in the women's singles at the 2023 French Open."}
+{"condition": "noise_0.4", "id": 58, "pred": "Rafael Nadal won the men's singles French Open 2022."}
+{"condition": "noise_0.4", "id": 59, "pred": "Novak Djokovic won the men's singles French Open 2023."}
+{"condition": "noise_0.4", "id": 60, "pred": "Elena Rybakina"}
+{"condition": "noise_0.4", "id": 62, "pred": "Novak Djokovic won the men's singles Wimbledon 2022."}
+{"condition": "noise_0.4", "id": 63, "pred": "Carlos Alcaraz won the men's singles Wimbledon 2023."}
+{"condition": "noise_0.4", "id": 64, "pred": "Swiatek has won 8 titles in the 2022 season."}
+{"condition": "noise_0.4", "id": 65, "pred": "Iga Swiatek"}
+{"condition": "noise_0.4", "id": 67, "pred": "There are factual errors in the provided documents.\nBrent Pry"}
+{"condition": "noise_0.4", "id": 69, "pred": "The 148th Kentucky Derby took place on Saturday, May 7, 2022."}
+{"condition": "noise_0.4", "id": 70, "pred": "Tesla's revenue in Q1 2022 was $18.76 billion."}
+{"condition": "noise_0.4", "id": 71, "pred": "Splatoon 3 will be released on September 9, 2022."}
+{"condition": "noise_0.4", "id": 72, "pred": "The Najafi Companies acquired STX Entertainment."}
+{"condition": "noise_0.4", "id": 73, "pred": "Orrin G. Hatch passed away on April 23, 2022."}
+{"condition": "noise_0.4", "id": 76, "pred": "There are factual errors in the provided documents.\nThe main camera on the iPhone 14 Pro has a 48 megapixel resolution."}
+{"condition": "noise_0.4", "id": 77, "pred": "I can provide you with the information you need. According to the documents, a $49 rental kit for Apple device repairs lasts for 7 days."}
+{"condition": "noise_0.4", "id": 78, "pred": "The 2022 Met Gala will take place at the Metropolitan Museum of Art in New York City."}
+{"condition": "noise_0.4", "id": 81, "pred": "The prize money for the Squid Game-inspired reality competition is $4.56 million."}
+{"condition": "noise_0.4", "id": 82, "pred": "Overwatch 2 was released on October 4, 2022."}
+{"condition": "noise_0.4", "id": 83, "pred": "Jonas Vingegaard won the 2022 Tour de France."}
+{"condition": "noise_0.4", "id": 84, "pred": "Apple's revenue in Q3 2022 was $83.0 billion."}
+{"condition": "noise_0.4", "id": 85, "pred": "Alex de Minaur won the 2022 Atlanta Open."}
+{"condition": "noise_0.4", "id": 86, "pred": "The revenue of AWS in Q2 2022 was $19.7 billion."}
+{"condition": "noise_0.4", "id": 87, "pred": "Xenoblade Chronicles 3 was released on July 29, 2022."}
+{"condition": "noise_0.4", "id": 89, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 91, "pred": "BlenderBot 3 was released on August 5, 2022."}
+{"condition": "noise_0.4", "id": 95, "pred": "Amazon agreed to pay $1.7 billion to acquire iRobot."}
+{"condition": "noise_0.4", "id": 96, "pred": "The location of the Major League Baseball Field of Dreams Game 2022 is Field of Dreams ballpark in Dyersville, Iowa."}
+{"condition": "noise_0.4", "id": 97, "pred": "Microsoft released Windows 11 22H2 on September 20, 2022."}
+{"condition": "noise_0.4", "id": 98, "pred": "AMD unveiled Ryzen 7000 processors in late September."}
+{"condition": "noise_0.4", "id": 99, "pred": "Konnor McClain won the U.S. all-around title at the U.S. Gymnastics Nationals 2022."}
+{"condition": "noise_0.4", "id": 101, "pred": "The premiere date of House of the Dragon is August 21, 2022."}
+{"condition": "noise_0.4", "id": 102, "pred": "The release date for Sony's PlayStation VR2 headset is February 22, 2023."}
+{"condition": "noise_0.4", "id": 103, "pred": "The new venture launched by Tiger Woods and Rory McIlroy is TMRW Sports."}
+{"condition": "noise_0.4", "id": 104, "pred": "ColdQuanta recently acquired Super.tech."}
+{"condition": "noise_0.4", "id": 105, "pred": "Caleb Williams is the Heisman Trophy winner in 2022."}
+{"condition": "noise_0.4", "id": 106, "pred": "The Amazing Race Season 34 premiered on Wednesday, Sept. 21 at 10/9c on CBS."}
+{"condition": "noise_0.4", "id": 107, "pred": "Damien Comolli is the chairman of Toulouse and they are currently under the ownership of RedBird Capital Partners."}
+{"condition": "noise_0.4", "id": 110, "pred": "New Amsterdam Season 5 premieres on Tuesday, September 20, 2022."}
+{"condition": "noise_0.4", "id": 115, "pred": "I can provide factual information based on the documents:\n\nSony Interactive Entertainment and Sixjoy Hong Kong Limited acquired a stake in FromSoftware. Sony has a 14.09% stake, while Sixjoy has a 16.25% stake."}
+{"condition": "noise_0.4", "id": 117, "pred": "The unemployment rate in August 2022 in U.S. was 3.7%."}
+{"condition": "noise_0.4", "id": 119, "pred": "There are factual errors in the provided documents. The documents contain conflicting information about the number of injured people. Document [2] states that eight people were hurt, while Document [3] and Document [4] state that eight people were injured. However, Document [3] also mentions that four of the passengers were pronounced"}
+{"condition": "noise_0.4", "id": 121, "pred": "There are factual errors in the provided documents.\nTanya Pardazi died tragically on 27 August in a skydiving accident. She was an aspiring beauty queen who had completed a skydiving course with Skydive Toronto. According to the skydive school, an unnamed student \"released a quickly"}
+{"condition": "noise_0.4", "id": 122, "pred": "Mickey Joseph was named the interim head coach for Nebraska's 2022 season."}
+{"condition": "noise_0.4", "id": 123, "pred": "Jackie Evancho's album Carousel of Time was released on September 9, 2022."}
+{"condition": "noise_0.4", "id": 124, "pred": "The companies part of MATANA are Microsoft Corporation (NASDAQ: MSFT), Apple Inc (NASDAQ: AAPL), Tesla Inc (NASDAQ: TSLA), Alphabet Inc (NASDAQ: GOOGL), Nvidia Corp (NASDAQ: NVDA), and Amazon.com Inc (NASDAQ: AMZN)."}
+{"condition": "noise_0.4", "id": 125, "pred": "Arcane won the Emmy Award for Best Animated Program."}
+{"condition": "noise_0.4", "id": 126, "pred": "There are factual errors in the provided documents.\nThe documents contain conflicting information about the number of teams in the expanded College Football Playoff. Some documents suggest the expanded playoff will have 12 teams, while others indicate it will start with 12 teams in 2024 and expand to 12 teams in"}
+{"condition": "noise_0.4", "id": 127, "pred": "Qatar will play against Ecuador in the opening match of the 2022 World Cup."}
+{"condition": "noise_0.4", "id": 128, "pred": "Leonard Francis escaped from his home in San Diego."}
+{"condition": "noise_0.4", "id": 129, "pred": "The 2022 NFL Football Season begins on September 8, 2022."}
+{"condition": "noise_0.4", "id": 130, "pred": "There are factual errors in the provided documents. Meta Connect took place on October 11."}
+{"condition": "noise_0.4", "id": 131, "pred": "The fine that Meta is facing for failing to safeguard children's information on Instagram is 405 million euros or just over $400 million."}
+{"condition": "noise_0.4", "id": 132, "pred": "Gotham Knights was released on October 21, 2022."}
+{"condition": "noise_0.4", "id": 133, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 136, "pred": "There are factual errors in the provided documents. I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 139, "pred": "The iPhone 14 Plus release date is October 7, 2022."}
+{"condition": "noise_0.4", "id": 141, "pred": "The new product at Chick-fil-A in fall 2022 is the Autumn Spice Milkshake and the return of the Grilled Spicy Deluxe Sandwich."}
+{"condition": "noise_0.4", "id": 143, "pred": "There are factual errors in the provided documents. The correct answer is that Carlos Alcaraz became the men's year-end No. 1 in tennis in 2022."}
+{"condition": "noise_0.4", "id": 144, "pred": "Titus Welliver was playing Lex Luthor in Titans."}
+{"condition": "noise_0.4", "id": 147, "pred": "Google acquired Mandiant for $5.4 billion."}
+{"condition": "noise_0.4", "id": 148, "pred": "The inflation rate in the U.S. in August 2022 was 8.3%."}
+{"condition": "noise_0.4", "id": 152, "pred": "Hocus Pocus 2 was released on Disney+ on September 30, 2022."}
+{"condition": "noise_0.4", "id": 153, "pred": "There are factual errors in the provided documents.\nACL 2023 is taking place from July 9th to July 14th, 2023."}
+{"condition": "noise_0.4", "id": 156, "pred": "EMNLP 2023 will take place in Singapore."}
+{"condition": "noise_0.4", "id": 157, "pred": "The starting price for Virginia Tech 2023 football season tickets is $350."}
+{"condition": "noise_0.4", "id": 158, "pred": "The date of the Wine OFF the Fox benefit concert is Saturday, October 22."}
+{"condition": "noise_0.4", "id": 159, "pred": "The funeral of Queen Elizabeth II took place on 19 September."}
+{"condition": "noise_0.4", "id": 161, "pred": "The top two contestants in the America's Got Talent Season 17 finale were Mayyas and Kristy Sellars."}
+{"condition": "noise_0.4", "id": 163, "pred": "Three people died in the mid-air collision in Boulder County."}
+{"condition": "noise_0.4", "id": 164, "pred": "Giorgia Meloni is Italy's first female prime minister."}
+{"condition": "noise_0.4", "id": 166, "pred": "The Las Vegas Aces won the WNBA Finals 2022."}
+{"condition": "noise_0.4", "id": 167, "pred": "The Golden Globe Awards 2023 took place on Tuesday, January 10, 2023."}
+{"condition": "noise_0.4", "id": 168, "pred": "The Pixel Watch was released on October 13."}
+{"condition": "noise_0.4", "id": 169, "pred": "Robin Roberts was honored with a Lifetime Professional Achievement Award at the Seton Hall's Center for Sports Media Gala."}
+{"condition": "noise_0.4", "id": 170, "pred": "Barbadian singer Rihanna performed at the Super Bowl LVII Halftime Show."}
+{"condition": "noise_0.4", "id": 172, "pred": "There are factual errors in the provided documents. The documents present conflicting information about the motive behind the assassination. According to document [1], the shooter denied political motivations and mentioned his mother's bankruptcy after she donated to an unnamed religious organization with which Abe had alleged ties. However, document [2] states that the suspect,"}
+{"condition": "noise_0.4", "id": 173, "pred": "The state funeral of Shinzo Abe was held on 27 September 2022."}
+{"condition": "noise_0.4", "id": 174, "pred": "The title of House of the Dragon's sixth episode is \"The Princess and the Queen\"."}
+{"condition": "noise_0.4", "id": 175, "pred": "Times Square Grand Slam has been acquired by EVO Entertainment Group."}
+{"condition": "noise_0.4", "id": 176, "pred": "The premiere date of Derry Girls Season 3 is October 7."}
+{"condition": "noise_0.4", "id": 177, "pred": "I can answer the question based on the information provided in the documents.\n\nThe 2022 Nobel Prize in Physiology or Medicine was awarded to the Swedish geneticist Svante Pääbo for his research in the field of genomes of extinct hominins and human evolution."}
+{"condition": "noise_0.4", "id": 178, "pred": "I can provide a short answer based on the information given in the documents.\n\nThe 2022 Nobel Prize in Literature was awarded to French author Annie Ernaux."}
+{"condition": "noise_0.4", "id": 179, "pred": "The new CEO of Fox Entertainment is Rob Wade."}
+{"condition": "noise_0.4", "id": 180, "pred": "Max Verstappen secured victory in the 2022 Japanese Grand Prix."}
+{"condition": "noise_0.4", "id": 181, "pred": "Sarah Shahi played Adrianna Tomaz in Black Adam."}
+{"condition": "noise_0.4", "id": 184, "pred": "The release date of Sweetwater is April 14, 2023."}
+{"condition": "noise_0.4", "id": 185, "pred": "The Google Pixel Watch started selling on October 13, 2022."}
+{"condition": "noise_0.4", "id": 187, "pred": "Morgan Monaco is the president of the Prospect Park Alliance."}
+{"condition": "noise_0.4", "id": 188, "pred": "I can provide a short answer based on the information given in the documents.\n\nRiot Games acquired Wargaming Sydney."}
+{"condition": "noise_0.4", "id": 189, "pred": "The new CEO of Yahoo is Jim Lanzone."}
+{"condition": "noise_0.4", "id": 190, "pred": "There are factual errors in the provided documents.\nThe subscriber growth of Netflix in Q3 2022 is 2.41 million global subscribers."}
+{"condition": "noise_0.4", "id": 191, "pred": "Chicago PD | Season 10 Episode 4 | Sky.com Donde Vives"}
+{"condition": "noise_0.4", "id": 192, "pred": "The YouTube Premium family plan now costs $22.99 per month."}
+{"condition": "noise_0.4", "id": 193, "pred": "The release date of God of War Ragnarok is November 9, 2022."}
+{"condition": "noise_0.4", "id": 194, "pred": "Ethan Hawke voices Batman in Batwheels."}
+{"condition": "noise_0.4", "id": 195, "pred": "Rishi Sunak is the new prime minister of the United Kingdom."}
+{"condition": "noise_0.4", "id": 196, "pred": "Rishi Sunak became Prime Minister of the UK on 25 October 2022."}
+{"condition": "noise_0.4", "id": 197, "pred": "The Netflix Basic with Ads subscription costs $6.99 per month."}
+{"condition": "noise_0.4", "id": 201, "pred": "The Republican party controls the House after the 2022 midterm elections."}
+{"condition": "noise_0.4", "id": 203, "pred": "John R. Leonetti directed Lullaby."}
+{"condition": "noise_0.4", "id": 206, "pred": "France is in Group D of the 2022 FIFA World Cup."}
+{"condition": "noise_0.4", "id": 207, "pred": "U.S. is in Group B in World Cup 2022."}
+{"condition": "noise_0.4", "id": 208, "pred": "There are factual errors in the provided documents.\nArgentina is in Group C of the 2022 FIFA World Cup."}
+{"condition": "noise_0.4", "id": 209, "pred": "The title of the new season of \"Criminal Minds\" is \"Criminal Minds: Evolution\"."}
+{"condition": "noise_0.4", "id": 211, "pred": "Kat Callaghan is the TikTok text-to-speech voice."}
+{"condition": "noise_0.4", "id": 212, "pred": "Merriam-Webster's 2022 Word of the Year is \"gaslighting\"."}
+{"condition": "noise_0.4", "id": 213, "pred": "SM Entertainment is setting up its Southeast Asian headquarters in Singapore."}
+{"condition": "noise_0.4", "id": 214, "pred": "The unemployment rate in November 2022 was 3.7%."}
+{"condition": "noise_0.4", "id": 215, "pred": "The USA played against the Netherlands in the Round of 16 at the 2022 FIFA World Cup."}
+{"condition": "noise_0.4", "id": 216, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 217, "pred": "Brian Kemp won the election in Georgia."}
+{"condition": "noise_0.4", "id": 218, "pred": "Margot Robbie is starring as Barbie in the movie \"Barbie\". Ryan Gosling is starring as Ken."}
+{"condition": "noise_0.4", "id": 219, "pred": "Tyler Adams is the captain of the USA soccer team in the FIFA Men's World Cup 2022."}
+{"condition": "noise_0.4", "id": 221, "pred": "President Joe Biden's administration announced the infusion of nearly $36 billion to shore up a financially troubled union pension plan."}
+{"condition": "noise_0.4", "id": 222, "pred": "Caleb Williams won the Maxwell Award 2022 in college football."}
+{"condition": "noise_0.4", "id": 223, "pred": "Africa's first World Cup semi-finalists are Morocco."}
+{"condition": "noise_0.4", "id": 225, "pred": "The championship game of the Patriot League Men’s Lacrosse Championship 2023 is on Sunday, May 7, at noon on Nickerson Field."}
+{"condition": "noise_0.4", "id": 227, "pred": "The new president of the NCAA is Charlie Baker."}
+{"condition": "noise_0.4", "id": 228, "pred": "There are factual errors in the provided documents. The current CEO of Twitter is Linda Yaccarino."}
+{"condition": "noise_0.4", "id": 229, "pred": "Daniel Alegre is the CEO of Yuga Labs."}
+{"condition": "noise_0.4", "id": 231, "pred": "The Final Fantasy Pixel Remaster Series was released on Nintendo Switch on April 19, 2023."}
+{"condition": "noise_0.4", "id": 232, "pred": "The movie \"Guillermo Del Toro's Pinocchio\" won the Oscar for Best Animated Film in 2023."}
+{"condition": "noise_0.4", "id": 234, "pred": "Georgia won the Peach Bowl 2022."}
+{"condition": "noise_0.4", "id": 235, "pred": "No. 16 Michigan Tech won the 2023 Desert Hockey Classic."}
+{"condition": "noise_0.4", "id": 236, "pred": "The price of Microsoft 365 Basic per month is $1.99."}
+{"condition": "noise_0.4", "id": 237, "pred": "Calvin Edgar Fox passed away on January 18, 2023."}
+{"condition": "noise_0.4", "id": 239, "pred": "Scream VI releases on March 10, 2023."}
+{"condition": "noise_0.4", "id": 240, "pred": "The annual GDP growth rate of the U.S. economy in 2022 was 2.1 percent.\n\nThere are no conflicting or incorrect information provided in the documents regarding the GDP growth rate of the U.S. economy in 2022."}
+{"condition": "noise_0.4", "id": 241, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 242, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.4", "id": 243, "pred": "The congressional hearing for TikTok CEO Shou Zi Chew is scheduled for March 23, 2023."}
+{"condition": "noise_0.4", "id": 246, "pred": "The voucher amount per student in the Students First Act is $7,598."}
+{"condition": "noise_0.4", "id": 248, "pred": "Google's new AI chatbot is called Google Bard."}
+{"condition": "noise_0.4", "id": 249, "pred": "David Holz founded Midjourney."}
+{"condition": "noise_0.4", "id": 251, "pred": "The new CEO of Pinterest is Bill Ready."}
+{"condition": "noise_0.4", "id": 254, "pred": "I can provide a short answer based on the information given in the documents.\n\nAmazon acquired iRobot."}
+{"condition": "noise_0.4", "id": 258, "pred": "Everything Everywhere All at Once won Best Picture at the 95th Academy Awards Ceremony."}
+{"condition": "noise_0.4", "id": 259, "pred": "Daniel Kwan and Daniel Scheinert won Best Director at the 95th Academy Awards Ceremony for their work on \"Everything Everywhere All at Once.\""}
+{"condition": "noise_0.4", "id": 261, "pred": "Michelle Yeoh won Best Actress at the 95th Academy Awards Ceremony for her role in \"Everything Everywhere All At Once.\""}
+{"condition": "noise_0.4", "id": 262, "pred": "Germany took home the prize for Best International Feature Film at the 95th Academy Awards Ceremony for the movie \"All Quiet on the Western Front\", directed by Edward Berger."}
+{"condition": "noise_0.4", "id": 264, "pred": "Gina Miles won The Voice Season 23."}
+{"condition": "noise_0.4", "id": 267, "pred": "There are factual errors in the provided documents. The correct answer is Beau Ferrari."}
+{"condition": "noise_0.4", "id": 268, "pred": "The name of Elon Musk's new AI company is X.AI."}
+{"condition": "noise_0.4", "id": 269, "pred": "There are factual errors in the provided documents.\nThe Virginia Tech spring game in 2023 was won by the Maroon squad with a score of 34-0 over the White squad."}
+{"condition": "noise_0.4", "id": 270, "pred": "Rebecka Peterson was named the 2023 National Teacher of the Year."}
+{"condition": "noise_0.4", "id": 271, "pred": "The 2023 Douglas County Fair & Rodeo starts on July 28."}
+{"condition": "noise_0.4", "id": 274, "pred": "Sundar Pichai's total compensation in 2022 was valued at $226 million."}
+{"condition": "noise_0.4", "id": 275, "pred": "Google I/O 2023 will take place on Wednesday, May 10."}
+{"condition": "noise_0.4", "id": 277, "pred": "The name of the AI dating tool Coyne Lloyd used is Rizz."}
+{"condition": "noise_0.4", "id": 278, "pred": "Matt Crocker is the new sporting director of U.S. Soccer."}
+{"condition": "noise_0.4", "id": 279, "pred": "Oklahoma State"}
+{"condition": "noise_0.4", "id": 280, "pred": "Cal Kestis is the main character in Jedi: Survivor."}
+{"condition": "noise_0.4", "id": 281, "pred": "There are factual errors in the provided documents. The director of \"Polite Society\" is Nida Manzoor."}
+{"condition": "noise_0.4", "id": 282, "pred": "Grand Crew Season 2 ended on April 28, 2023."}
+{"condition": "noise_0.4", "id": 283, "pred": "Roy Wood Jr. hosted the 2023 White House Correspondents' Dinner."}
+{"condition": "noise_0.4", "id": 284, "pred": "The Chinese city of Chengdu will host The World Games 2025."}
+{"condition": "noise_0.4", "id": 285, "pred": "There are factual errors in the provided documents. The new CEO of TCW Group is Katie Koch."}
+{"condition": "noise_0.4", "id": 286, "pred": "Pixel Fold was announced on May 10, 2023."}
+{"condition": "noise_0.4", "id": 287, "pred": "The name of Google's foldable smartphone is Pixel Fold."}
+{"condition": "noise_0.4", "id": 288, "pred": "253,000 jobs were created in April 2023."}
+{"condition": "noise_0.4", "id": 289, "pred": "The end date for the federal PHE for COVID-19 is May 11, 2023."}
+{"condition": "noise_0.4", "id": 292, "pred": "There are factual errors in the provided documents. The documents indicate that the ChatGPT app for iOS was launched today, May 18, 2023."}
+{"condition": "noise_0.4", "id": 294, "pred": "The price of the Apple Vision Pro headset is $3,499."}
+{"condition": "noise_0.4", "id": 296, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are no explicit statements in the provided documents about who the CEO of Maven is."}
+{"condition": "noise_0.4", "id": 297, "pred": "Wyndham Clark won the U.S. Open golf tournament 2023."}
+{"condition": "noise_0.4", "id": 299, "pred": "Cooper Kupp was the MVP of Super Bowl LVI (Super Bowl 2022)."}
+{"condition": "noise_0.8", "id": 0, "pred": "I can can answer the question because there is enough information in the documents. The premiere of 'Carole King & James Taylor: Just Call Out My Name' is January 2, 2022."}
+{"condition": "noise_0.8", "id": 1, "pred": "The genre of the drama \"Good Sam\" is medical drama."}
+{"condition": "noise_0.8", "id": 3, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 5, "pred": "Evo Entertainment Group acquired Showbiz Cinemas."}
+{"condition": "noise_0.8", "id": 6, "pred": "The Super Bowl held in 2022 was played at SoFi Stadium in Inglewood, California."}
+{"condition": "noise_0.8", "id": 7, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 8, "pred": "The Fablemans won the best drama at the 79th Golden Globes."}
+{"condition": "noise_0.8", "id": 9, "pred": "The GA Tech softball 2022 season tickets cost $100 per seat."}
+{"condition": "noise_0.8", "id": 10, "pred": "The 2022 Olympic Winter Games end on 20 February."}
+{"condition": "noise_0.8", "id": 12, "pred": "Microsoft is acquiring Activision Blizzard for $95.00 per share, in an all-cash transaction valued at $68.7 billion, inclusive of Activision Blizzard's net cash."}
+{"condition": "noise_0.8", "id": 13, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 14, "pred": "I can not answer the question because of insufficient information in documents. The documents only provide information about the 87th annual Seattle Sports Star of the Year Awards Show being hosted by the Seattle Sports Commission on May 26, 2022, at the Westin in Seattle, Wash., and they are"}
+{"condition": "noise_0.8", "id": 20, "pred": "There are factual errors in the provided documents. The correct answer is that the Super Bowl 2022 date is February 13."}
+{"condition": "noise_0.8", "id": 21, "pred": "Carolyn R. Bertozzi, Morten Meldal, and K. Barry Sharpless won the 2022 Nobel Prize for Chemistry."}
+{"condition": "noise_0.8", "id": 23, "pred": "Erin Jackson won the women's 500m speed skating at the 2022 Winter Olympics."}
+{"condition": "noise_0.8", "id": 24, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 25, "pred": "I can answer the question based on the information provided in the documents. Jessie Diggins won a silver medal in the 30-kilometer freestyle race and a bronze medal in the individual sprint at the 2022 Beijing Winter Games."}
+{"condition": "noise_0.8", "id": 27, "pred": "There are factual errors in the provided documents. The invasion began at dawn on 24 February."}
+{"condition": "noise_0.8", "id": 28, "pred": "Elden Ring was being released on February 25, 2022."}
+{"condition": "noise_0.8", "id": 29, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 30, "pred": "Norway won the most medals at the 2022 Winter Olympics."}
+{"condition": "noise_0.8", "id": 31, "pred": "Chris Stapleton won the Male Vocalist of the Year at the 2022 CMA."}
+{"condition": "noise_0.8", "id": 32, "pred": "I can answer the question based on the information provided in the documents. The Virginia Tech Hokies won the 2022 ACC Tournament."}
+{"condition": "noise_0.8", "id": 33, "pred": "The iPhone 14 has the A15 Bionic chip. However, it has more grunt than the A15 in the regular iPhone 13 and the $429 iPhone SE from earlier this year. The iPhone 14 Plus also uses the A15 Bionic chip."}
+{"condition": "noise_0.8", "id": 34, "pred": "Google I/O 2022 is scheduled to take place on May 11 and May 12 at the Shoreline Amphitheater."}
+{"condition": "noise_0.8", "id": 36, "pred": "The name of China's rover on Mars is Zhurong."}
+{"condition": "noise_0.8", "id": 37, "pred": "Shad Gaspard is being honored with the 2022 Warrior Award."}
+{"condition": "noise_0.8", "id": 38, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 39, "pred": "Sandra Bullock, Channing Tatum, and Daniel Radcliffe star in The Lost City."}
+{"condition": "noise_0.8", "id": 41, "pred": "Apple M2 chip was announced on June 6, 2022, at WWDC."}
+{"condition": "noise_0.8", "id": 43, "pred": "The 94th Oscars® will be held on Sunday, March 27, 2022."}
+{"condition": "noise_0.8", "id": 44, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 46, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 47, "pred": "Tesla delivered 310,048 vehicles in the first quarter of 2022."}
+{"condition": "noise_0.8", "id": 48, "pred": "Elon Musk acquired Twitter."}
+{"condition": "noise_0.8", "id": 49, "pred": "Elon Musk bought Twitter at his original offer price of $54.20 a share at a total cost of roughly $44 billion."}
+{"condition": "noise_0.8", "id": 50, "pred": "Scottie Scheffler won the 2022 Masters Tournament."}
+{"condition": "noise_0.8", "id": 51, "pred": "Ashleigh Barty won the women's singles Australian Open 2022."}
+{"condition": "noise_0.8", "id": 52, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 53, "pred": "There are factual errors in the provided documents.\nRafael Nadal"}
+{"condition": "noise_0.8", "id": 54, "pred": "I can answer the question based on the information provided in the documents. The 2023 Australian Open Winner in the Men’s Singles category is Novak Djokovic."}
+{"condition": "noise_0.8", "id": 55, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 56, "pred": "Iga Swiatek won the women's singles French Open 2023."}
+{"condition": "noise_0.8", "id": 57, "pred": "Karolina Muchova is the runner-up in the women's singles at the 2023 French Open."}
+{"condition": "noise_0.8", "id": 58, "pred": "There are factual errors in the provided documents. I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 59, "pred": "Novak Djokovic won the men's singles French Open 2023."}
+{"condition": "noise_0.8", "id": 60, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 62, "pred": "Novak Djokovic won the men's singles Wimbledon 2022."}
+{"condition": "noise_0.8", "id": 63, "pred": "Carlos Alcaraz won the men's singles Wimbledon 2023."}
+{"condition": "noise_0.8", "id": 64, "pred": "Iga Swiatek has won a total of 10 titles in the 2022 season. She has two WTA 500 titles, four 1000 titles, and two Slam trophies."}
+{"condition": "noise_0.8", "id": 65, "pred": "I can answer the question based on the information provided in the documents. The women's singles U.S. Open 2022 winner was Iga Swiatek."}
+{"condition": "noise_0.8", "id": 67, "pred": "There are factual errors in the provided documents. The new head coach of the Virginia Tech football team in 2022 is Brent Pry."}
+{"condition": "noise_0.8", "id": 69, "pred": "The 148th Kentucky Derby took place on Saturday, May 7, 2022."}
+{"condition": "noise_0.8", "id": 70, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 71, "pred": "Splatoon 3 will release on September 9, 2022."}
+{"condition": "noise_0.8", "id": 72, "pred": "There are factual errors in the provided documents. Najafi Companies completed its acquisition of STX Entertainment."}
+{"condition": "noise_0.8", "id": 73, "pred": "Orrin G. Hatch passed away at 5:30 p.m. on Saturday, April 23, 2022."}
+{"condition": "noise_0.8", "id": 76, "pred": "The main camera on the iPhone 14 Pro has a 48MP (megapixel) lens."}
+{"condition": "noise_0.8", "id": 77, "pred": "There are factual errors in the provided documents. The documents provide different costs for renting a tool kit for Apple device repairs. Self Service Repair Store charges $49/week for the rental, while the cost for the tool kit is around $914 for the iPhone SE toolkit."}
+{"condition": "noise_0.8", "id": 78, "pred": "The 2022 Met Gala will take place at the Metropolitan Museum of Art."}
+{"condition": "noise_0.8", "id": 81, "pred": "The prize money for the Squid Game-inspired reality competition is $4.56 million."}
+{"condition": "noise_0.8", "id": 82, "pred": "Overwatch 2 was released on October 4, 2022."}
+{"condition": "noise_0.8", "id": 83, "pred": "Jonas Vingegaard won the 2022 Tour de France."}
+{"condition": "noise_0.8", "id": 84, "pred": "Apple's revenue in Q3 2022 was $83.0 billion."}
+{"condition": "noise_0.8", "id": 85, "pred": "Alex de Minaur won the 2022 Atlanta Open."}
+{"condition": "noise_0.8", "id": 86, "pred": "The revenue of AWS in Q2 2022 was $19.7 billion."}
+{"condition": "noise_0.8", "id": 87, "pred": "Xenoblade Chronicles 3 was released on July 29."}
+{"condition": "noise_0.8", "id": 89, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 91, "pred": "BlenderBot 3 was released on Friday, August 5."}
+{"condition": "noise_0.8", "id": 95, "pred": "There are factual errors in the provided documents. Amazon agreed to pay $1.7 billion to acquire iRobot."}
+{"condition": "noise_0.8", "id": 96, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 97, "pred": "Microsoft released Windows 11 22H2 on September 20, 2022."}
+{"condition": "noise_0.8", "id": 98, "pred": "AMD unveiled Ryzen 7000 processors in late September."}
+{"condition": "noise_0.8", "id": 99, "pred": "Konnor McClain won the U.S. all-around title at the U.S. Gymnastics Nationals 2022."}
+{"condition": "noise_0.8", "id": 101, "pred": "The premiere date of House of the Dragon is August 21, 2022."}
+{"condition": "noise_0.8", "id": 102, "pred": "The release date for Sony's PlayStation VR2 headset is February 22, 2023."}
+{"condition": "noise_0.8", "id": 103, "pred": "TMRW Sports"}
+{"condition": "noise_0.8", "id": 104, "pred": "There are factual errors in the provided documents. The correct answer is Fire Retardant Chemical Technologies, LLC (FRCT)."}
+{"condition": "noise_0.8", "id": 105, "pred": "Caleb Williams is the Heisman Trophy winner in 2022."}
+{"condition": "noise_0.8", "id": 106, "pred": "Season 34 premiered on Wednesday, Sept. 21 at 10/9c on CBS."}
+{"condition": "noise_0.8", "id": 107, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 110, "pred": "I can can answer the question because there is enough information in the documents. The premiere date of New Amsterdam Season 5 is Tuesday, September 20."}
+{"condition": "noise_0.8", "id": 115, "pred": "There are factual errors in the provided documents. Sony and Tencent acquired a stake in FromSoftware."}
+{"condition": "noise_0.8", "id": 117, "pred": "The unemployment rate in August 2022 in U.S. was 3.7%."}
+{"condition": "noise_0.8", "id": 119, "pred": "There are factual errors in the provided documents. The documents contain conflicting information about the number of injured people. CBS2 reported eight injured, while the Palisades Interstate Parkway Police stated eight passengers were hospitalized with injuries. Therefore, I cannot provide a single, accurate number of injured people."}
+{"condition": "noise_0.8", "id": 121, "pred": "There are factual errors in the provided documents. Tanya Pardazi died while attempting to open her main parachute too late, causing her to fall and die in a tragic skydiving accident."}
+{"condition": "noise_0.8", "id": 122, "pred": "Mickey Joseph was named the interim coach for Nebraska's 2022 season."}
+{"condition": "noise_0.8", "id": 123, "pred": "Jackie Evancho's album Carousel of Time was released on September 9, 2022."}
+{"condition": "noise_0.8", "id": 124, "pred": "Microsoft Corporation, Apple Inc, Tesla Inc, Alphabet Inc, Nvidia Corp, and Amazon.com Inc are part of the MATANA group."}
+{"condition": "noise_0.8", "id": 125, "pred": "I can answer the question based on the information provided in the documents. Arcane won the Emmy Award for Best Animated Program."}
+{"condition": "noise_0.8", "id": 126, "pred": "There are factual errors in the provided documents. The correct answer is that 12 teams will be included in the expanded College Football Playoff."}
+{"condition": "noise_0.8", "id": 127, "pred": "I can answer the question based on the information provided in the documents. Qatar played against Ecuador in the opening match of the 2022 World Cup."}
+{"condition": "noise_0.8", "id": 128, "pred": "Leonard Francis escaped from his residence in San Diego."}
+{"condition": "noise_0.8", "id": 129, "pred": "The 2022 NFL Football Season begins on September 8, 2022, with the defending Super Bowl LVI champion Los Angeles Rams falling to Buffalo in the NFL Kickoff Game."}
+{"condition": "noise_0.8", "id": 130, "pred": "Meta Connect took place on October 11."}
+{"condition": "noise_0.8", "id": 131, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 132, "pred": "Gotham Knights was released on October 21."}
+{"condition": "noise_0.8", "id": 133, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 136, "pred": "There are factual errors in the provided documents. I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 139, "pred": "The iPhone 14 Plus was made available on October 7, 2022."}
+{"condition": "noise_0.8", "id": 141, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 143, "pred": "There are factual errors in the provided documents. The men's year-end No. 1 in tennis in 2022 was Rafael Nadal."}
+{"condition": "noise_0.8", "id": 144, "pred": "Titus Welliver was playing Lex Luthor in Titans."}
+{"condition": "noise_0.8", "id": 147, "pred": "I can can answer the question because of sufficient information in documents. Google acquired Mandiant for $5.4 billion."}
+{"condition": "noise_0.8", "id": 148, "pred": "The inflation rate in the U.S. in August 2022 was 8.3%."}
+{"condition": "noise_0.8", "id": 152, "pred": "Hocus Pocus 2 was released on Disney Plus on September 30."}
+{"condition": "noise_0.8", "id": 153, "pred": "There are factual errors in the provided documents.\nACL 2023 is taking place from July 9th to July 14th, 2023."}
+{"condition": "noise_0.8", "id": 156, "pred": "EMNLP 2023 will take place in Singapore."}
+{"condition": "noise_0.8", "id": 157, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 158, "pred": "The date of the Wine OFF the Fox benefit concert is Saturday, Oct. 22."}
+{"condition": "noise_0.8", "id": 159, "pred": "The funeral of Queen Elizabeth II took place on 19 September."}
+{"condition": "noise_0.8", "id": 161, "pred": "The top two contestants in the America's Got Talent Season 17 finale were Mayyas and Kristy Sellars."}
+{"condition": "noise_0.8", "id": 163, "pred": "Two people died in the mid-air collision in Boulder County."}
+{"condition": "noise_0.8", "id": 164, "pred": "Giorgia Meloni is Italy's first female prime minister."}
+{"condition": "noise_0.8", "id": 166, "pred": "Las Vegas Aces won the WNBA Finals 2022."}
+{"condition": "noise_0.8", "id": 167, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 168, "pred": "The Pixel Watch was released in the United States on October 13."}
+{"condition": "noise_0.8", "id": 169, "pred": "Robin Roberts was honored with a Lifetime Professional Achievement Award at the Seton Hall's Center for Sports Media Gala."}
+{"condition": "noise_0.8", "id": 170, "pred": "Barbadian singer Rihanna performed at the Super Bowl LVII Halftime Show."}
+{"condition": "noise_0.8", "id": 172, "pred": "There are factual errors in the provided documents. 41-year-old Tetsuya Yamagami killed Shinzo Abe."}
+{"condition": "noise_0.8", "id": 173, "pred": "The state funeral of Shinzo Abe was held on 27 September 2022."}
+{"condition": "noise_0.8", "id": 174, "pred": "The title of House of the Dragon's sixth episode is \"Episode 6\"."}
+{"condition": "noise_0.8", "id": 175, "pred": "I can provide the short answer based on the information given in the documents.\n\nEVO Entertainment Group has acquired Times Square Grand Slam."}
+{"condition": "noise_0.8", "id": 176, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 177, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 178, "pred": "I can answer the question based on the information provided in the documents.\n\nThe 2022 Nobel Prize in Literature was awarded to French author Annie Ernaux."}
+{"condition": "noise_0.8", "id": 179, "pred": "The new CEO of Fox Entertainment is Rob Wade."}
+{"condition": "noise_0.8", "id": 180, "pred": "Max Verstappen secured his second World Championship title after finishing first in the 2022 Japanese Grand Prix."}
+{"condition": "noise_0.8", "id": 181, "pred": "Sarah Shahi played Adrianna Tomaz in Black Adam."}
+{"condition": "noise_0.8", "id": 184, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 185, "pred": "The Google Pixel Watch was officially announced on October 6, 2022, and was released in the United States on October 13."}
+{"condition": "noise_0.8", "id": 187, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 188, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 189, "pred": "The new CEO of Yahoo is Jim Lanzone."}
+{"condition": "noise_0.8", "id": 190, "pred": "There are factual errors in the provided documents.\nNetflix added 2.41 million global subscribers in the third quarter of 2022."}
+{"condition": "noise_0.8", "id": 191, "pred": "Chicago PD | Season 10 Episode 4 | Sky.com Donde Vives"}
+{"condition": "noise_0.8", "id": 192, "pred": "There are factual errors in the provided documents.\nThe YouTube Premium family plan now costs $22.99 per month."}
+{"condition": "noise_0.8", "id": 193, "pred": "The release date of God of War Ragnarok is November 9, 2022."}
+{"condition": "noise_0.8", "id": 194, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 195, "pred": "I can answer the question based on the information provided in the documents. Rishi Sunak became the new Prime Minister of the United Kingdom on 25 October 2022."}
+{"condition": "noise_0.8", "id": 196, "pred": "Rishi Sunak became Prime Minister of the United Kingdom on 25 October 2022."}
+{"condition": "noise_0.8", "id": 197, "pred": "The Netflix Basic with Ads subscription costs $6.99 per month."}
+{"condition": "noise_0.8", "id": 201, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 203, "pred": "John R. Leonetti directed Lullaby."}
+{"condition": "noise_0.8", "id": 206, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 207, "pred": "There are factual errors in the provided documents. The correct answer is Group B."}
+{"condition": "noise_0.8", "id": 208, "pred": "Argentina is in Group C of the 2022 FIFA World Cup."}
+{"condition": "noise_0.8", "id": 209, "pred": "The title of the new season of \"Criminal Minds\" is Criminal Minds: Evolution."}
+{"condition": "noise_0.8", "id": 211, "pred": "Kat Callaghan is the TikTok text-to-speech voice."}
+{"condition": "noise_0.8", "id": 212, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 213, "pred": "SM Entertainment is setting up its Southeast Asian headquarters in Singapore."}
+{"condition": "noise_0.8", "id": 214, "pred": "There are factual errors in the provided documents. The correct unemployment rate in November 2022 was 3.7%."}
+{"condition": "noise_0.8", "id": 215, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 216, "pred": "There are factual errors in the provided documents.\nArgentina's potential semi-final opponent is Spain or South American rivals Brazil, as stated in the second document."}
+{"condition": "noise_0.8", "id": 217, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are conflicting statements in the documents regarding the outcome of the Georgia's senate seat election. Brian Kemp gained more votes compared to Trump in 2020 all across Georgia, beating Stacey Abrams by a more than seven-point margin, as mentioned by"}
+{"condition": "noise_0.8", "id": 218, "pred": "I can provide the answer based on the information given in the documents. The movie \"Barbie\" stars Margot Robbie as Barbie. Ryan Gosling is cast as Ken, the beau of Barbie."}
+{"condition": "noise_0.8", "id": 219, "pred": "Tyler Adams is the captain of the USA soccer team in the FIFA Men's World Cup 2022."}
+{"condition": "noise_0.8", "id": 221, "pred": "President Joe Biden will put nearly $36 billion into the union pension plan."}
+{"condition": "noise_0.8", "id": 222, "pred": "Caleb Williams won the Maxwell Award 2022 in college football."}
+{"condition": "noise_0.8", "id": 223, "pred": "Morocco"}
+{"condition": "noise_0.8", "id": 225, "pred": "The championship game of the Patriot League Men’s Lacrosse Championship 2023 is on Sunday, May 7, at noon on Nickerson Field."}
+{"condition": "noise_0.8", "id": 227, "pred": "There are factual errors in the provided documents. The new president of the NCAA is Charlie Baker."}
+{"condition": "noise_0.8", "id": 228, "pred": "There are factual errors in the provided documents. The correct answer is Linda Yaccarino."}
+{"condition": "noise_0.8", "id": 229, "pred": "Daniel Alegre is the CEO of Yuga Labs."}
+{"condition": "noise_0.8", "id": 231, "pred": "The Final Fantasy Pixel Remaster Series was released on Nintendo Switch on April 19, 2023."}
+{"condition": "noise_0.8", "id": 232, "pred": "Mar 12, 2023 ... 2023 Oscars: 'Guillermo del Toro's Pinocchio' wins best animated feature. The voice cast includes Ewan McGregor, Christoph Waltz, fellow Oscar ...\nBased on the information provided in the first document, the movie that won the"}
+{"condition": "noise_0.8", "id": 234, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 235, "pred": "I can answer the question based on the information provided in the documents. No. 16 Michigan Tech won the 2023 Desert Hockey Classic."}
+{"condition": "noise_0.8", "id": 236, "pred": "The price of Microsoft 365 Basic per month is $1.99."}
+{"condition": "noise_0.8", "id": 237, "pred": "Calvin Edgar Fox passed away on January 18, 2023."}
+{"condition": "noise_0.8", "id": 239, "pred": "Scream VI released in theaters on March 10 and is now available to stream online on Paramount Plus."}
+{"condition": "noise_0.8", "id": 240, "pred": "The annual GDP growth rate of the U.S. economy in 2022 was 2.1 percent."}
+{"condition": "noise_0.8", "id": 241, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 242, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 243, "pred": "The congressional hearing for TikTok CEO Shou Zi Chew is scheduled for March 23, 2023."}
+{"condition": "noise_0.8", "id": 246, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 248, "pred": "Google's new AI chatbot is called Bard."}
+{"condition": "noise_0.8", "id": 249, "pred": "David Holz founded Midjourney."}
+{"condition": "noise_0.8", "id": 251, "pred": "Bill Ready is the new CEO of Pinterest."}
+{"condition": "noise_0.8", "id": 254, "pred": "I can provide the short answer directly from the given documents: Amazon acquired iRobot."}
+{"condition": "noise_0.8", "id": 258, "pred": "The movie that won Best Picture at the 95th Academy Awards Ceremony was Everything Everywhere All at Once."}
+{"condition": "noise_0.8", "id": 259, "pred": "There are factual errors in the provided documents. The correct answer is that \"Everything Everywhere All at Once\" won Best Director."}
+{"condition": "noise_0.8", "id": 261, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 262, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 264, "pred": "Gina Miles won The Voice Season 23."}
+{"condition": "noise_0.8", "id": 267, "pred": "Beau Ferrari is the Chairman of NBCUniversal Telemundo Enterprises."}
+{"condition": "noise_0.8", "id": 268, "pred": "There are factual errors in the provided documents.\nX.AI"}
+{"condition": "noise_0.8", "id": 269, "pred": "The Maroon team won the Virginia Tech spring game 2023 with a score of 34-0 over the White team."}
+{"condition": "noise_0.8", "id": 270, "pred": "Rebecka Peterson was named the 2023 National Teacher of the Year."}
+{"condition": "noise_0.8", "id": 271, "pred": "The 2023 Douglas County Fair & Rodeo starts on July 28, 2023."}
+{"condition": "noise_0.8", "id": 274, "pred": "Sundar Pichai's total compensation in 2022 was valued at $226 million."}
+{"condition": "noise_0.8", "id": 275, "pred": "The Google I/O 2023 conference is scheduled to take place on May 10."}
+{"condition": "noise_0.8", "id": 277, "pred": "The name of the AI dating tool Coyne Lloyd used is Rizz."}
+{"condition": "noise_0.8", "id": 278, "pred": "There are factual errors in the provided documents. Matt Crocker is the new sporting director of U.S. Soccer."}
+{"condition": "noise_0.8", "id": 279, "pred": "There are factual errors in the provided documents. I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 280, "pred": "The main character in Jedi: Survivor is Cal Kestis."}
+{"condition": "noise_0.8", "id": 281, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 282, "pred": "Grand Crew Season 2 ended on April 28."}
+{"condition": "noise_0.8", "id": 283, "pred": "Roy Wood Jr. hosted the 2023 White House Correspondents' Dinner."}
+{"condition": "noise_0.8", "id": 284, "pred": "Chengdu"}
+{"condition": "noise_0.8", "id": 285, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 286, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 287, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 288, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 289, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "noise_0.8", "id": 292, "pred": "The ChatGPT app for iOS was launched on May 18, 2023."}
+{"condition": "noise_0.8", "id": 294, "pred": "The price of the Apple Vision Pro headset is $3,499."}
+{"condition": "noise_0.8", "id": 296, "pred": "There are factual errors in the provided documents. The CEO of Maven is Kate Ryder."}
+{"condition": "noise_0.8", "id": 297, "pred": "Wyndham Clark won the U.S. Open golf tournament 2023."}
+{"condition": "noise_0.8", "id": 299, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 0, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 1, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 3, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 5, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 6, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 7, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 8, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 9, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 10, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 12, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 13, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 14, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 20, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 21, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 23, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are factual errors in the provided documents. Based on the information given, Takagi won the women's 500m speed skating event at the 2022 Winter Olympics."}
+{"condition": "incomplete", "id": 24, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 25, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 27, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 28, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 29, "pred": "Iga Swiatek defeated Jessica Pegula to win the Qatar TotalEnergies Open 2022."}
+{"condition": "incomplete", "id": 30, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 31, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 32, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 33, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 34, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 36, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 37, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 38, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 39, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 41, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 43, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 44, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 46, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 47, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 48, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 49, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 50, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 51, "pred": "Ash Barty won the women's singles Australian Open 2022."}
+{"condition": "incomplete", "id": 52, "pred": "I can not answer the question because of insufficient information in documents.\n\nThe provided documents do not contain any information about the winner of the women's singles Australian Open 2023."}
+{"condition": "incomplete", "id": 53, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 54, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 55, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 56, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 57, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 58, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 59, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 60, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 62, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 63, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 64, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 65, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 67, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 69, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 70, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 71, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 72, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 73, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 76, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 77, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 78, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 81, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 82, "pred": "Overwatch 2 was released on October 4, 2022."}
+{"condition": "incomplete", "id": 83, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 84, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 85, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 86, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 87, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 89, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 91, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 95, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 96, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 97, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 98, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 99, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 101, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 102, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 103, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 104, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 105, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 106, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 107, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 110, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 115, "pred": "Kadokawa acquired a stake in FromSoftware."}
+{"condition": "incomplete", "id": 117, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 119, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 121, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 122, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 123, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 124, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 125, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 126, "pred": "There are factual errors in the provided documents. The documents do not contain enough information to answer the question about how many teams will be included in the expanded College Football Playoff."}
+{"condition": "incomplete", "id": 127, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 128, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 129, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 130, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 131, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 132, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 133, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 136, "pred": "There are factual errors in the provided documents. Alcaraz beat Jannik Sinner in the U.S. Open 2022 Men's Semifinals."}
+{"condition": "incomplete", "id": 139, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 141, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 143, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 144, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 147, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 148, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 152, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 153, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 156, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 157, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 158, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 159, "pred": "The funeral of Queen Elizabeth II took place on Monday, 8 September 2022."}
+{"condition": "incomplete", "id": 161, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 163, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 164, "pred": "There are factual errors in the provided documents.\nMeloni"}
+{"condition": "incomplete", "id": 166, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 167, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 168, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 169, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 170, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 172, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 173, "pred": "The State funeral of Shinzo Abe was held in July."}
+{"condition": "incomplete", "id": 174, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 175, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 176, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 177, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 178, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 179, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 180, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 181, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 184, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 185, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are no specific dates mentioned in the provided documents regarding when the Google Pixel Watch started selling."}
+{"condition": "incomplete", "id": 187, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 188, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 189, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 190, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 191, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 192, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 193, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 194, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 195, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 196, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 197, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 201, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 203, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 206, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 207, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 208, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 209, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 211, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 212, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 213, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 214, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 215, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 216, "pred": "There are factual errors in the provided documents.\nArgentina's potential semi-final opponents are Spain or South American rivals Brazil."}
+{"condition": "incomplete", "id": 217, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 218, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 219, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 221, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 222, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 223, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 225, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 227, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 228, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 229, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 231, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 232, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 234, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 235, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 236, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 237, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 239, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 240, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 241, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 242, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 243, "pred": "The congressional hearing for TikTok CEO Shou Zi Chew is scheduled for a full committee hearing titled \"TikTok: How Congress Can Safeguard American Data Privacy and Protect Children from Online Harms.\" The exact date is not provided in the given documents."}
+{"condition": "incomplete", "id": 246, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 248, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 249, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 251, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 254, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 258, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 259, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 261, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 262, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 264, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 267, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 268, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 269, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 270, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 271, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 274, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 275, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 277, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 278, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 279, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 280, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 281, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 282, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 283, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 284, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 285, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 286, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 287, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 288, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 289, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 292, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 294, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 296, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 297, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "incomplete", "id": 299, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 0, "pred": "There are factual errors in the provided documents.\nSuper Bowl 2021 location was Tampa, Florida."}
+{"condition": "contradictory", "id": 1, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 2, "pred": "The company acquired Instagram for $1.0 billion in 2012. Based on the information provided in the documents, it can be inferred that the company acquiring Instagram is Meta. However, it's important to note that the documents do not explicitly state that Meta is the acquiring company."}
+{"condition": "contradictory", "id": 3, "pred": "There are factual errors in the provided documents.\nFacebook purchased WhatsApp."}
+{"condition": "contradictory", "id": 5, "pred": "There are factual errors in the provided documents. Angelique Kerber won the women's singles Wimbledon in 2018."}
+{"condition": "contradictory", "id": 6, "pred": "I can not answer the question because of insufficient information in documents.\n\nBoth documents mention that Karolína Plíšková won the women's singles Wimbledon in 2021. However, they do not specify who defeated her. The first document mentions Ashleigh Barty defeated Karolína Plí"}
+{"condition": "contradictory", "id": 7, "pred": "There are factual errors in the provided documents. The correct answer is that Andy Murray won the men's singles Wimbledon in 2013."}
+{"condition": "contradictory", "id": 8, "pred": "There are factual errors in the provided documents.\nBianca Andreescu"}
+{"condition": "contradictory", "id": 9, "pred": "I can not answer the question because of insufficient information in documents.\n\nThere are factual errors in the provided documents. Document 1 states that Andy Murray won the men's singles tennis title, while Document 2 states that Dominic Thiem won the title."}
+{"condition": "contradictory", "id": 10, "pred": "There are factual errors in the provided documents.\nBianca Andreescu won the women's singles U.S. Open in 2019."}
+{"condition": "contradictory", "id": 11, "pred": "I can not answer the question because of insufficient information in documents.\n\nBoth documents mention that Novak Djokovic was defeated in the final of the 2021 US Open, but they do not specify who won. Document 1 states that Rafael Nadal won, while Document 2 states that Daniil Med"}
+{"condition": "contradictory", "id": 13, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 14, "pred": "Tesla's revenue in Q3 2019 was $6.3 billion."}
+{"condition": "contradictory", "id": 17, "pred": "Emmanuel Macron won the French Presidential Election 2017."}
+{"condition": "contradictory", "id": 18, "pred": "There are factual errors in the provided documents. Joe Biden won the US Presidential Election 2020."}
+{"condition": "contradictory", "id": 19, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 20, "pred": "There are factual errors in the provided documents.\nThe race was won for the second consecutive year by Egan Bernal of UAE Team Emirates, becoming the youngest rider to win the Tour twice."}
+{"condition": "contradictory", "id": 21, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 22, "pred": "There are factual errors in the provided documents. Xenoblade Chronicles 2 was released on December 1, 2017."}
+{"condition": "contradictory", "id": 23, "pred": "There are factual errors in the provided documents.\nXenoblade Chronicles X was released in Japan on April 29, 2015."}
+{"condition": "contradictory", "id": 26, "pred": "There are factual errors in the provided documents.\nOpenAI was founded in 2015."}
+{"condition": "contradictory", "id": 27, "pred": "There are factual errors in the provided documents. The correct Heisman Trophy winner in 2012 is Baker Mayfield."}
+{"condition": "contradictory", "id": 28, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 29, "pred": "I can answer the question based on the information provided in the documents.\nThe Maxwell Award winner in 2019 is Joe Burrow, from Louisiana State University."}
+{"condition": "contradictory", "id": 30, "pred": "James Cameron"}
+{"condition": "contradictory", "id": 31, "pred": "There are factual errors in the provided documents.\nThe director of the Silent Hill movie is Cristophe Gans."}
+{"condition": "contradictory", "id": 32, "pred": "There are factual errors in the provided documents.\nThe director of the Assassin's Creed movie is Justin Kurzel."}
+{"condition": "contradictory", "id": 36, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 38, "pred": "There are factual errors in the provided documents.\nMarvel's Spider-Man was released for the PlayStation 4 on September 7, 2018."}
+{"condition": "contradictory", "id": 40, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 41, "pred": "I can not answer the question because of insufficient information in documents.\n\nDocuments [2] and [3] both mention that Australia's Ashleigh Barty finished the year as the WTA Year-End World No.1 in 2020. However, they provide different information about Angelique Kerber. Document"}
+{"condition": "contradictory", "id": 42, "pred": "There are factual errors in the provided documents.\nRafael Nadal has clinched the year-end No. 1 ATP Ranking for a fifth time in 2019."}
+{"condition": "contradictory", "id": 43, "pred": "There are factual errors in the provided documents.\nGoogle purchased YouTube for $1.65 billion nearly 15 years ago."}
+{"condition": "contradictory", "id": 44, "pred": "There are factual errors in the provided documents.\nThe Legend of Zelda: Breath of the Wild was eventually released on March 3, 2017, as a launch game for the Switch and the final Nintendo game for the Wii U. It received widespread acclaim and won. The second release date mentioned is on March"}
+{"condition": "contradictory", "id": 47, "pred": "There are factual errors in the provided documents.\nThe Golden Globe Awards 2020 took place on January 5, 2020."}
+{"condition": "contradictory", "id": 48, "pred": "There are factual errors in the provided documents.\nThe Nobel Prize in Literature for 2021 was awarded to Abdulrazak Gurnah."}
+{"condition": "contradictory", "id": 49, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 51, "pred": "The release date of God of War (2018) is April 20, 2018."}
+{"condition": "contradictory", "id": 52, "pred": "The release date of The Last of Us Part II is 6/19/2020."}
+{"condition": "contradictory", "id": 53, "pred": "There are factual errors in the provided documents.\nCyberpunk 2077's original release date was April 16, 2020."}
+{"condition": "contradictory", "id": 56, "pred": "James Cameron directed Titanic."}
+{"condition": "contradictory", "id": 57, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 59, "pred": "There are factual errors in the provided documents.\nI can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 60, "pred": "Gianni Infantino is the president of FIFA."}
+{"condition": "contradictory", "id": 62, "pred": "Elon Musk"}
+{"condition": "contradictory", "id": 63, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 64, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 65, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 67, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 68, "pred": "There are factual errors in the provided documents. The correct answer is Croatia."}
+{"condition": "contradictory", "id": 69, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 71, "pred": "The release date for Animal Crossing: New Horizons on Nintendo Switch is March 20, 2020."}
+{"condition": "contradictory", "id": 72, "pred": "The release date for Super Mario Odyssey on Nintendo Switch is October 27, 2017."}
+{"condition": "contradictory", "id": 75, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 77, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 78, "pred": "There are factual errors in the provided documents.\nThe documents mention two candidates named Juliana Urtubey and Tabatha Rosproy, both of whom are elementary school special education teachers. However, they are not named as the 2021 National Teacher of the Year. Therefore, based on the information given"}
+{"condition": "contradictory", "id": 79, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 80, "pred": "Emma Stone is the lead actress in La La Land."}
+{"condition": "contradictory", "id": 82, "pred": "There are factual errors in the provided documents.\nThe documents provide conflicting information about the director of \"Pretty Woman\". Document [1] states that Bryan Singer directed the film, while Document [2] states that Garry Marshall directed the film."}
+{"condition": "contradictory", "id": 85, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 86, "pred": "There are factual errors in the provided documents.\nThe correct answer is not provided in the given documents."}
+{"condition": "contradictory", "id": 87, "pred": "There are factual errors in the provided documents.\nAbigail P. \"Abby\" Johnson"}
+{"condition": "contradictory", "id": 88, "pred": "There are factual errors in the provided documents.\nThe Pixel 6 was officially announced at the Pixel Fall Launch event on October 19, 2021."}
+{"condition": "contradictory", "id": 89, "pred": "There are factual errors in the provided documents. The Pixel 5a was officially announced on August 17, 2021."}
+{"condition": "contradictory", "id": 91, "pred": "There are factual errors in the provided documents.\nThe 2020 NBA Draft was held on November 18, 2020."}
+{"condition": "contradictory", "id": 92, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 95, "pred": "Tim Cook is the CEO of Apple in 2021."}
+{"condition": "contradictory", "id": 96, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 97, "pred": "I can not answer the question because of insufficient information in documents."}
+{"condition": "contradictory", "id": 99, "pred": "I can not answer the question because of insufficient information in documents."}
