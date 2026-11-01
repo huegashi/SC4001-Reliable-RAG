@@ -1,9 +1,0 @@
-{
-  "context_sha256": "a08ed9edcee0d124b86a0cebee4b818b059cbf517f84a40c4c01685894da9553",
-  "passage_scorer": "qwen2.5:7b-instruct",
-  "answer_generator": "qwen2.5:3B-Instruct",
-  "seed": 42,
-  "scoring_version": 2,
-  "filter_threshold": 0.0002523623360250626,
-  "abstention_threshold": 0.00541352540469197
-}
