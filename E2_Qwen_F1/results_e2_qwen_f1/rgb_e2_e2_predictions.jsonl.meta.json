@@ -5,5 +5,5 @@
   "seed": 42,
   "max_new_tokens": 64,
   "filter_threshold": 1.3702995011356746e-07,
-  "abstain_threshold": 4.796591794483425e-07
+  "abstain_threshold": null
 }
