@@ -1,0 +1,12 @@
+{
+  "context_sha256": "a08ed9edcee0d124b86a0cebee4b818b059cbf517f84a40c4c01685894da9553",
+  "seed": 42,
+  "model": "qwen2.5:3B-Instruct",
+  "max_new_tokens": 64,
+  "filter_threshold": 1.3702995011356746e-07,
+  "abstain_threshold": 4.796591794483425e-07,
+  "method": "E2_without_abstention",
+  "generation_rule": "generate from kept_docs for every row; never replace generation with refusal",
+  "cached_e2_rows": 481,
+  "cached_e2_complete": false
+}
