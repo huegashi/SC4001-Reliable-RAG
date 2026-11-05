@@ -51,7 +51,8 @@ These results should be interpreted alongside per-condition accuracy, rejection 
 | [`E2_Qwen_F1/`](./E2_Qwen_F1/) | Qwen passage scoring, filtering, calibration, and cached E2 outputs |
 | [`E3_Ablation/`](./E3_Ablation/) | Filtering-versus-abstention ablation and reproduction checks |
 | [`E4_Failure_Analysis/`](./E4_Failure_Analysis/) | Question-level evidence diagnostics, failure categories, passage exports, and findings |
-| [`RGB/`](./RGB/) | RGB benchmark code/data location used by the experiments |
+
+`RGB/` is not committed. Clone it at the repo root for E2–E4 (same commit as in [`Baseline/README.md`](./Baseline/README.md)); the Baseline notebooks use their own copy inside `Baseline/`.
 
 ## Reproducibility rules
 

@@ -1,6 +1,6 @@
 # E2: Qwen passage relevance filter
 
-The E2 implementation is the **single self-contained notebook** `E2_qwen_f1_filter.executed.ipynb`. All pipeline code is embedded in notebook cells; no separate Python script is required.
+The E2 implementation is the **single self-contained notebook** [`E2_qwen_f1_filter.ipynb`](./E2_qwen_f1_filter.ipynb). All pipeline code is embedded in notebook cells; no separate Python script is required.
 
 ## Setup and run
 

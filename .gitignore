@@ -1,4 +1,5 @@
 venv/
 RGB/
 __pycache__/
-.ipynb_checkpoints/.DS_Store
+.ipynb_checkpoints/
+.DS_Store
