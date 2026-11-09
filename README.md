@@ -47,7 +47,7 @@ These results should be interpreted alongside per-condition accuracy, rejection 
 
 | Folder | Contents |
 |---|---|
-| [`Baseline/`](./Baseline/) | E0 and E1 notebooks, cached predictions, and baseline setup instructions |
+| [`E0 & E1 Baseline/`](./E0 & E1 Baseline/) | E0 and E1 notebooks, cached predictions, and baseline setup instructions |
 | [`E2_Qwen_F1/`](./E2_Qwen_F1/) | Qwen passage scoring, filtering, calibration, and cached E2 outputs |
 | [`E3_Ablation/`](./E3_Ablation/) | Filtering-versus-abstention ablation and reproduction checks |
 | [`E4_Failure_Analysis/`](./E4_Failure_Analysis/) | Question-level evidence diagnostics, failure categories, passage exports, and findings |

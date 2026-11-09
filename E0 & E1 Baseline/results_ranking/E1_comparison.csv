@@ -1,0 +1,3 @@
+,acc noise_0.0,acc noise_0.4,acc noise_0.8,rej noise_0.8,rej incomplete,acc contradictory,rej contradictory,wrong contradictory,balanced,tau
+E0_refusal,0.957,0.957,0.705,0.243,0.857,0.543,0.329,0.129,0.865,
+E1_filter_abstain,0.886,0.838,0.7,0.243,0.929,0.329,0.471,0.2,0.868,0.447
