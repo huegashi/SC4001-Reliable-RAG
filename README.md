@@ -6,8 +6,8 @@ This repository evaluates reliability techniques for retrieval-augmented generat
 
 | Experiment | Purpose | Main artifact |
 |---|---|---|
-| E0 | Baseline generation with all retrieved passages and prompt-based refusal behavior | [`Baseline/baseline_rag_ranking.ipynb`](./Baseline/baseline_rag_ranking.ipynb) |
-| E1 | Similarity-based retrieval filtering with top-2 passage selection and abstention | [`Baseline/baseline_rag_ranking.ipynb`](./Baseline/baseline_rag_ranking.ipynb) |
+| E0 | Baseline generation with all retrieved passages and prompt-based refusal behavior | [`E0 & E1 Baseline/baseline_rag_ranking.ipynb`](./E0 & E1 Baseline/baseline_rag_ranking.ipynb) |
+| E1 | Similarity-based retrieval filtering with top-2 passage selection and abstention | [`E0 & E1 Baseline/baseline_rag_ranking.ipynb`](./E0 & E1 Baseline/baseline_rag_ranking.ipynb) |
 | E2 | Qwen passage-relevance scoring, calibration-only filtering, and abstention thresholds | [`E2_Qwen_F1/E2_qwen_f1_filter.ipynb`](./E2_Qwen_F1/E2_qwen_f1_filter.ipynb) |
 | E3 | Test-split ablation separating the effects of Qwen filtering and score-based abstention | [`E3_Ablation/E3_ablation.ipynb`](./E3_Ablation/E3_ablation.ipynb) |
 | E4 | Failure analysis of the four E3 variants at question and passage level | [`E4_Failure_Analysis/E4_failure_analysis.ipynb`](./E4_Failure_Analysis/E4_failure_analysis.ipynb) |
@@ -52,7 +52,7 @@ These results should be interpreted alongside per-condition accuracy, rejection 
 | [`E3_Ablation/`](./E3_Ablation/) | Filtering-versus-abstention ablation and reproduction checks |
 | [`E4_Failure_Analysis/`](./E4_Failure_Analysis/) | Question-level evidence diagnostics, failure categories, passage exports, and findings |
 
-`RGB/` is not committed. Clone it at the repo root for E2–E4 (same commit as in [`Baseline/README.md`](./Baseline/README.md)); the Baseline notebooks use their own copy inside `Baseline/`.
+`RGB/` is not committed. Clone it at the repo root for E1–E4 (same commit as in [`E0 & E1 Baseline/README.md`](./E0 & E1 Baseline/README.md)); the Baseline notebooks use their own copy inside `E0 & E1 Baseline/`.
 
 ## Reproducibility rules
 
